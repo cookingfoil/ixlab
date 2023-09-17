@@ -20,7 +20,7 @@ ACM CHI 2021 Paper [Download paper](https://cookingfoil.github.io/paper/Secrets_
 *Eunji Park* and Byungjoo Lee  
 ACM CHI 2020 Paper [Download paper](https://cookingfoil.github.io/paper/paper_ICP.pdf)
 
-**Moving Target Selection: A Cue Integration Model**
+**Moving Target Selection: A Cue Integration Model** <br>
 Byungjoo Lee, Sunjun Kim, Antti Oulasvirta, Jong-In Lee, and *Eunji Park*  
 ACM CHI 2018 paper [Download paper](https://cookingfoil.github.io/paper/paper_MTS.pdf)
 
@@ -28,11 +28,11 @@ ACM CHI 2018 paper [Download paper](https://cookingfoil.github.io/paper/paper_MT
 
 <!-- ## Other Publications -->
 
-**Button++: Designing Risk-aware Smart Buttons**
+**Button++: Designing Risk-aware Smart Buttons** <br>
 *Eunji Park*, Hyunju Kim and Byungjoo Lee  
 ACM CHI 2018 LBW [Download paper](https://cookingfoil.github.io/paper/poster_button.pdf)
 
-**A Study on the Effect of Inter Key Spacing on Typing Performance**
+**A Study on the Effect of Inter Key Spacing on Typing Performance**<br>
 Hyunju Kim, *Eunji Park* and Byungjoo Lee  
 HCI KOREA 2018
 
