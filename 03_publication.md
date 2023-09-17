@@ -11,7 +11,7 @@ title: Publication
 ACM CHI 2023 Paper [Download paper](https://cookingfoil.github.io/paper/paper_charlie.pdf)
 
 **Secrets of Gosu: Understanding Physical Combat Skills of Professional Players in First-Person Shooters** <br>
-(<span style="color: red">Honorable Mention Award (top 5%)</span>) <br>  
+(<span style="color: red">Honorable Mention Award (top 5%)</span>) <br>
 *Eunji Park*, Sangyoon Lee, Auejin Ham, Minyeop Choi, Sunjun Kim, and Byungjoo Lee    
 ACM CHI 2021 Paper [Download paper](https://cookingfoil.github.io/paper/Secrets_of_Gosu.pdf) 
 
