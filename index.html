@@ -3,6 +3,106 @@ layout: default
 title: Home
 ---
 
+<!DOCTYPE html>                                                                                                                                           
+<pre>
+ ___  ___  ________  ___       ___       ________  ________                                                                                    
+|\  \|\  \|\   ____\|\  \     |\  \     |\   __  \|\   __  \                                                                                   
+\ \  \\\  \ \  \___|\ \  \    \ \  \    \ \  \|\  \ \  \|\ /_                                                                                  
+ \ \   __  \ \  \    \ \  \    \ \  \    \ \   __  \ \   __  \                                                                                 
+  \ \  \ \  \ \  \____\ \  \    \ \  \____\ \  \ \  \ \  \|\  \                                                                                
+   \ \__\ \__\ \_______\ \__\    \ \_______\ \__\ \__\ \_______\                                                                               
+    \|__|\|__|\|_______|\|__|     \|_______|\|__|\|__|\|_______|                                                                               
+                                                                                                                                                  
+</pre>   
+
+<script>
+  function myFunction() {
+    var dots = document.getElementById("dots");
+    var moreText = document.getElementById("more");
+    var btnText = document.getElementById("myBtn");
+  
+    if (dots.style.display === "none") {
+      dots.style.display = "inline";
+      btnText.innerHTML = "Read more";
+      moreText.style.display = "none";
+    } else {
+      dots.style.display = "none";
+      btnText.innerHTML = "Read less";
+      moreText.style.display = "inline";
+    }
+  }
+</script>
+                                                                                                                                                  
+<!-- <pre>
+    __  ____________   __          __  
+   / / / / ____/  _/  / /   ____ _/ /_ 
+  / /_/ / /    / /   / /   / __ `/ __ \
+ / __  / /____/ /   / /___/ /_/ / /_/ /
+/_/ /_/\____/___/  /_____/\__,_/_.___/ 
+                                      
+</pre>                                                                                                                                                -->
+
+<body>
+
+<div style="font-family: 'Verdana', sans-serif; font-size: 22px;"><b>About HCI Lab &#10024;</b></div>
+
+We are looking for passionate students interested in solving real-life issues 
+from the perspective of human-computer interaction (HCI). 
+HCI Lab aims to quantitatively measure and evaluate the invisible interactions 
+between humans and computers based on data, ultimately striving to optimize these interactions. 
+We prioritize building and advancing each student's research area in the field of human-computer interaction, 
+ensuring maximum support for individual research interests. 
+We welcome students who enjoy raising questions about phenomena that others might overlook and 
+engaging in discussions to solve these problems.
+
+
+<HR>
+
+
+<div style="font-family: 'Verdana', sans-serif; font-size: 22px;"><b>News &#10024;</b></div>
+
+<style>
+  #more {display: none;}
+</style>
+&#127979; <b>Sep 2023</b> HCI Lab started a new journey in Chung-Ang University<br>
+<!-- &#10022; <b>Mar 2023</b> Received outstanding TA award from School of Computing, KAIST (CS206 Data Structure)<br> 
+&#10022; <b>Feb 2023</b> 'Charlie and the Semi-Automated Factory: Data-Driven Operator Behavior and Performance Modeling for Human-Machine Collaborative Systems' paper has been accepted at CHI2023 <br>
+&#10022; <b>Sep 2022</b> Received outstanding TA award from School of Computing, KAIST (CS592 Sensor Data Science)<br> 
+&#10022; <b>May 2022</b> Invited to the UNIST CSE333 class seminar <br>
+&#10022; <b>Feb 2022</b> Received outstanding TA award from School of Computing, KAIST (CS206 Data Structure)<br>
+&#10022; <b>Dec 2021</b> Selected for NAVER Fellowship <br>
+&#10022; <b>Sep 2021</b> Invited to the EIRIC (Electronic & Information Research Information Center) seminar<br>
+&#10022; <b>Sep 2021</b> Served as a Student Volunteer at UbiComp/ISWC 2021. Such an amazing experience! <br> -->
+
+<!-- <span id="dots">...</span><span id="more"> -->
+<!-- &#10022; <b>Jun 2021</b> Got a research grant for Ph.D student from NRF (National Research Foundation of Korea) <br>
+&#10022; <b>Mar 2021</b> 'Secrets of Gosu: Understanding Physical Combat Skills of Professional Players in First-Person Shooters' paper received an <b>Honourable Mention Award</b> at CHI2021 ! <br>            
+&#10022; <b>Dec 2020</b> 'Secrets of Gosu: Understanding Physical Combat Skills of Professional Players in First-Person Shooters' paper has been accepted at CHI2021 <br>
+&#10022; <b>Mar 2020</b> 'An Intermittent Click Planning Model' paper received an <b>Honourable Mention Award</b> at CHI2020 ! <br>
+&#10022; <b>Feb 2020</b>  Visited New York for joint research with NYXL (New York Excelsior), the best Overwatch team in the world <br>
+&#10022; <b>Dec 2019</b> 'An Intermittent Click Planning Model' paper has been accepted at CHI2020<br>
+&#10022; <b>Oct 2019</b>  Got a Kimyounghan Global Leader Scholarship <br> -->
+<!-- </span></p> -->
+<!-- <button onclick="myFunction()" id="myBtn">Read more</button> -->
+
+<HR>
+
+<!-- <div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url | absolute_url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    {{ post.content }}
+  </div>
+  {% endfor %}
+</div> -->
+<!-- 
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
@@ -17,9 +117,9 @@ title: Home
     {{ post.content }}
   </div>
   {% endfor %}
-</div>
+</div> -->
 
-<div class="pagination">
+<!-- <div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ paginator.next_page_path | absolute_url }}">Older</a>
   {% else %}
@@ -34,4 +134,6 @@ title: Home
   {% else %}
     <span class="pagination-item newer">Newer</span>
   {% endif %}
-</div>
+</div> -->
+
+</body>
