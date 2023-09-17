@@ -43,7 +43,7 @@ jobs:
     environment:
       name: github-pages
       # url: ${{ steps.deployment.outputs.page_url }}
-      url: "cookingfoil.github.io/hcilab"
+      url: "https://cookingfoil.github.io/hcilab/"
     runs-on: ubuntu-latest
     needs: build
     steps:
