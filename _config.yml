@@ -3,7 +3,7 @@ title:               HCI Lab
 tagline:             Human-Computer Interaction Lab
 description:         
 # description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 'cookingfoil.github.io/hcilab'
+url:                 'https://cookingfoil.github.io/hcilab'
 baseurl:             '/hcilab'
 paginate:            5
 permalink:           pretty
@@ -11,7 +11,7 @@ permalink:           pretty
 # About/contact
 author:
   name:              Eunji Park
-  url:               https://cookingfoil.github.io
+  url:               https://cookingfoil.github.io/hcilab
   email:             eunjipark@cau.ac.kr
 
 # Gems
