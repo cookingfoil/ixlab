@@ -3,7 +3,7 @@ title:               IX Lab
 tagline:             Interaction+X Lab
 description:         
 url:                 'https://cookingfoil.github.io/ixlab/'
-baseurl:             '/ixlab/'
+baseurl:             ''
 paginate:            5
 permalink:           pretty
 
