@@ -3,7 +3,7 @@ layout: page
 title: "People"
 ---
 
-## Professor
+## **Professor**
 
 
 <!-- </table> -->
@@ -44,4 +44,12 @@ title: "People"
 
 </div>
 
+--- 
+
+## **Student**
+### Undergratuate student
+
+* Jahun Jang 
+    * B.S. Student
+    * wkdwkgns213(at)cau.ac.kr
 
