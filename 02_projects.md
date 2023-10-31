@@ -4,6 +4,12 @@ title: Projects
 ---
 
 --- 
+<!-- 
+<style>
+  * { 
+    font-family: 'Noto Sans KR', sans-serif;
+  }
+</style> -->
 
 **Charlie and the Semi-Automated Factory: Data-Driven Operator Behavior and Performance Modeling for Human-Machine Collaborative Systems**
 <br>
