@@ -28,6 +28,10 @@ ACM CHI 2018 paper [Download paper](https://cookingfoil.github.io/paper/paper_MT
 
 <!-- ## Other Publications -->
 
+**Measuring Device-Specific Physical Activity Trackability in Multi-Device Environments** <br>
+Sangjun Park, *Eunji Park*, Paul H Lee, Uichin Lee
+IEEE BigComp 2023 [Download paper](https://cookingfoil.github.io/paper/physical_activity.pdf)
+
 **Button++: Designing Risk-aware Smart Buttons** <br>
 *Eunji Park*, Hyunju Kim and Byungjoo Lee  
 ACM CHI 2018 LBW [Download paper](https://cookingfoil.github.io/paper/poster_button.pdf)
