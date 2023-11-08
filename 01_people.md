@@ -24,9 +24,6 @@ title: "People"
             </h4>
             <h4>Assistant Professor</h4>
             <p>
-                <!-- <img src="https://sslab.skku.edu/images/emails/hojoon.png" style="width: 170px; height: auto; margin-left: 10px; margin-top: 0px;  box-shadow: None;"><br> -->
-                <!-- <i> -->
-                <!-- email: <eunjipark(at)cau.ac.kr></i> <br> -->
                 <a href="https://cookingfoil.github.io/"><b>Personal Page</b>
                 </a>&nbsp;&nbsp;<a href="https://cookingfoil.github.io/paper/CV_Eunji_updated_2308.pdf">
                 <b>CV</b>
@@ -55,14 +52,31 @@ title: "People"
 ## **Student**
 ### Undergratuate student
 
-* Jahun Jang 
-    * B.S. Student
-    * wkdwkgns213(at)cau.ac.kr
+<br>
 
-* Hyeonwoo Bae 
-    * B.S. Student
-    * tlth1224(at)cau.ac.kr
+<img src="/figures/jahun.jpg" onerror="this.src='/figures/user.png'" class="img-responsive" width="200px" style="float: left; margin-right: 40px">
+<div style="font-family: sans-serif; font-size: 25px;"><b>Jahun Jang </b></div>
+* B.S. Student
+* wkdwkgns213(at)cau.ac.kr
+<br>
+<br>
+<br>
+<br>
+<br>
 
-* Dohwa Kim
-    * B.S. Student
-    * dohwakim(at)cau.ac.kr    
+
+<img src="/figures/hyeonwoo.jpg" onerror="this.src='/figures/user.png'" class="img-responsive" width="200px" style="float: left; margin-right: 40px">
+<div style="font-family: sans-serif; font-size: 25px;"><b>Hyeonwoo Bae</b></div>
+* B.S. Student
+* tlth1224(at)cau.ac.kr
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<img src="/figures/dohwa.jpg" class="img-responsive" width="200px" style="float: left; margin-right: 40px">
+
+<div style="font-family: sans-serif; font-size: 25px;"><b>Dohwa Kim</b></div>
+* B.S. Student
+* kimdohwa2(at)cau.ac.kr    
