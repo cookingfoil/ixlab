@@ -59,3 +59,10 @@ title: "People"
     * B.S. Student
     * wkdwkgns213(at)cau.ac.kr
 
+* Hyeonwoo Bae 
+    * B.S. Student
+    * tlth1224(at)cau.ac.kr
+
+* Dohwa Kim
+    * B.S. Student
+    * dohwakim(at)cau.ac.kr    
