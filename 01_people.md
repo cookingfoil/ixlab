@@ -75,7 +75,7 @@ title: "People"
 <br>
 <br>
 
-<img src="/figures/dohwa.jpg" class="img-responsive" width="200px" style="float: left; margin-right: 40px">
+<img src="https://cookingfoil.github.io/ixlab/figures/dohwa.jpg" onerror="this.src='https://cookingfoil.github.io/ixlab/figures/user.png';" class="img-responsive" width="200px" style="float: left; margin-right: 40px">
 
 <div style="font-family: sans-serif; font-size: 25px;"><b>Dohwa Kim</b></div>
 * B.S. Student
