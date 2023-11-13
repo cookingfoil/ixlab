@@ -49,8 +49,8 @@ title: "People"
 
 --- 
 
-## **Student**
-### Undergratuate student
+## **Students**
+### Undergratuate students
 
 <br>
 <img src="https://cookingfoil.github.io/ixlab/figures/jahun.jpg" onerror="this.src='https://cookingfoil.github.io/ixlab/figures/user.png';" class="img-responsive" width="200px" style="float: center; margin-right: 40px">
