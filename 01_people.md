@@ -53,29 +53,21 @@ title: "People"
 ### Undergratuate student
 
 <br>
-
-<img src="https://cookingfoil.github.io/ixlab/figures/jahun.jpg" onerror="this.src='https://cookingfoil.github.io/ixlab/figures/user.png';" class="img-responsive" width="200px" style="float: left; margin-right: 40px">
+<img src="https://cookingfoil.github.io/ixlab/figures/jahun.jpg" onerror="this.src='https://cookingfoil.github.io/ixlab/figures/user.png';" class="img-responsive" width="200px" style="float: center; margin-right: 40px">
 <div style="font-family: sans-serif; font-size: 25px;"><b>Jahun Jang </b></div>
 * B.S. Student
-* wkdwkgns213(at)cau.ac.kr
-<br>
-<br>
-<br>
+* wkdwkgns213(at)cau.ac.kr  
 <br>
 <br>
 
-
-<img src="https://cookingfoil.github.io/ixlab/figures/hyeonwoo.jpg" onerror="this.src='https://cookingfoil.github.io/ixlab/figures/user.png';" class="img-responsive" width="200px" style="float: left; margin-right: 40px">
+<img src="https://cookingfoil.github.io/ixlab/figures/hyeonwoo.jpg" onerror="this.src='https://cookingfoil.github.io/ixlab/figures/user.png';" class="img-responsive" width="200px" style="float: center; margin-right: 40px">
 <div style="font-family: sans-serif; font-size: 25px;"><b>Hyeonwoo Bae</b></div>
 * B.S. Student
 * tlth1224(at)cau.ac.kr
 <br>
 <br>
-<br>
-<br>
-<br>
 
-<img src="https://cookingfoil.github.io/ixlab/figures/dohwa.jpg" onerror="this.src='https://cookingfoil.github.io/ixlab/figures/user.png';" class="img-responsive" width="200px" style="float: left; margin-right: 40px">
+<img src="https://cookingfoil.github.io/ixlab/figures/dohwa.jpg" onerror="this.src='https://cookingfoil.github.io/ixlab/figures/user.png';" class="img-responsive" width="200px" style="float: center; margin-right: 40px">
 
 <div style="font-family: sans-serif; font-size: 25px;"><b>Dohwa Kim</b></div>
 * B.S. Student

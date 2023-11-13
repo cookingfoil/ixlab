@@ -2,7 +2,7 @@
 title:               IX Lab
 tagline:             Interaction+X Lab
 description:         
-url:                 'https://cookingfoil.github.io/ixlab'
+url:                 'https://ixlab.cau.ac.kr'
 baseurl:             ''
 paginate:            5
 permalink:           pretty
@@ -10,7 +10,7 @@ permalink:           pretty
 # About/contact
 author:
   name:              Eunji Park
-  url:               'https://cookingfoil.github.io/ixlab'
+  url:               'https://ixlab.cau.ac.kr'
   email:             eunjipark@cau.ac.kr
 
 # Gems
