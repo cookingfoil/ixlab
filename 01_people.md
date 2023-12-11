@@ -157,7 +157,7 @@ title: "People"
     <div class="row">
         <div class="col-sm-3 clearfix">
             <p>
-                <img src="https://cookingfoil.github.io/ixlab/figures/yejinjang.jpg" onerror="this.src='https://cookingfoil.github.io/ixlab/figures/user.png';" class="img-responsive" width="150px" style="float: left; margin-right: 40px">
+                <img src="https://cookingfoil.github.io/ixlab/figures/user.png" onerror="this.src='https://cookingfoil.github.io/ixlab/figures/user.png';" class="img-responsive" width="150px" style="float: left; margin-right: 40px">
             </p>
         </div>
         <div class="col-sm-9 clearfix">
