@@ -25,7 +25,7 @@ title: "People"
             <h4>Assistant Professor</h4>
             <p>
                 <a href="https://cookingfoil.github.io/"><b>Personal Page</b>
-                </a>&nbsp;&nbsp;<a href="https://cookingfoil.github.io/paper/CV_Eunji_updated_2308.pdf">
+                </a>&nbsp;&nbsp;<a href="https://cookingfoil.github.io/paper/CV_Eunji_updated_2312.pdf">
                 <b>CV</b>
 </a><br></p>
 
