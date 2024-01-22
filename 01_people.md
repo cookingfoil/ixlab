@@ -182,7 +182,7 @@ title: "People"
         <div class="col-sm-9 clearfix">
             <h4>
             <br>
-            <div style="font-family: 'Verdana', sans-serif; font-size: 25px;"><b>Bin Ahn</b></div>
+            <div style="font-family: 'Verdana', sans-serif; font-size: 25px;"><b>Been An</b></div>
             </h4>
             <h4>
             <div style="font-family: sans-serif; font-size: 20px;">
