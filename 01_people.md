@@ -26,7 +26,7 @@ title: "People"
                 <b>CV</b>
                 </a>
             </h4>
-            <br><br>
+            <br>
         </div>
     </div>
 </div>
