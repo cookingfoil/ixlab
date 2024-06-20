@@ -8,6 +8,9 @@
 
     darkModeToggle.addEventListener('click', () => {
         body.classList.toggle('dark-mode');
+
+        const currentTheme = body.classList.contains('dark-mode') ? 'dark' : 'light';
+        document.documentElement.setAttribute('data-theme', currentTheme);
     });
 
 
@@ -21,8 +24,4 @@
     checkbox.checked = false;
   }, false);
 })(document);
-
-
-
-
 

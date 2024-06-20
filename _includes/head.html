@@ -26,7 +26,23 @@
 
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{'/public/IXLab-logos/IXLab-logos.jpeg'}}">
   <link rel="shortcut icon" href="{{'/public/logo/23-11.png'}}">
-  
+
+
+  <style>
+    /* Additional styling for the button (optional) */
+    .dark-mode-toggle {
+      position: fixed;
+      top: 20px;
+      right: 20px;
+      padding: 10px;
+      background-color: #0070c9;
+      color: #fff;
+      border: none;
+      cursor: pointer;
+      z-index: 1000; /* Ensure it's on top of other content */
+    }
+  </style>
+
 
   <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ '/atom.xml' | absolute_url }}">
 
