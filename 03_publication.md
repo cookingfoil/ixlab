@@ -8,7 +8,7 @@ title: Publications
 
 **Hide-and-seek: Detecting Workers’ Emotional Workload in Emotional Labor Contexts Using Multimodal Sensing** <br>
 *Eunji Park*, Duri Lee, Yunjo Han, James Diefendorff, and Uichin Lee  
-ACM IMWUT 2024 Paper [Download paper]()
+ACM IMWUT 2024 Paper 
 
 **Charlie and the Semi-Automated Factory: Data-Driven Operator Behavior and Performance Modeling for Human-Machine Collaborative Systems**
 *Eunji Park*, Yugyeong Jung, Inyeop Kim, and Uichin Lee  
