@@ -199,3 +199,23 @@ title: "People"
             <p>
 </p>
 <br><hr>
+
+
+<div id="gridid" class="col-sm-11">
+    <div class="row">
+        <div class="col-sm-3 clearfix">
+            <p>
+                <img src="https://cookingfoil.github.io/ixlab/figures/jin.jpg" onerror="this.src='https://cookingfoil.github.io/ixlab/figures/user.png';" class="img-responsive" width="150px" style="float: left; margin-right: 40px">
+            </p>
+        </div>
+        <div class="col-sm-9 clearfix">
+            <h4>
+            <br>
+            <div style="font-family: 'Verdana', sans-serif; font-size: 25px;"><b>Jin Nam</b></div>
+            </h4>
+            <h4>
+            <div style="font-family: sans-serif; font-size: 20px;">
+            B.S. Student in CAU<br></div>
+            <p>
+</p>
+<br><hr>
