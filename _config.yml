@@ -1,7 +1,7 @@
 # Setup
 title:               IX Lab
 tagline:             Interaction+X Lab
-description:         
+description:         Interaction+X Lab
 url:                 'https://ixlab.cau.ac.kr'
 baseurl:             ''
 paginate:            5
@@ -18,5 +18,5 @@ plugins:
   - jekyll-paginate
 
 # Custom vars
-version:             1.1.0
+version:             17 Oct, 2024
 google_analytics_id: #UA-XXXX-Y

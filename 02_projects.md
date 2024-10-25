@@ -11,6 +11,14 @@ title: Projects
   }
 </style> -->
 
+**Hide-and-seek: Detecting Workers’ Emotional Workload in Emotional Labor Contexts Using Multimodal Sensing**
+![Hide and Seek](https://cookingfoil.github.io/ixlab/figures/hideandseek.png)
+
+Emotional labor refers to the process in which workers are required to express emotions regardless of their actual feelings by the organization. In workplaces where such display rules exist, workers experience an emotional workload. Continued exposure to emotional workload can lead to severe mental and psychological issues. Nevertheless, research on assessing emotional workload remains understudied. In this study, we propose a machine learning model to automatically evaluate workers' emotional workload in emotional labor situations through multimodal sensing. The data collection study was designed based on a call center scenario. Within the study, we manipulated customer behaviors as confederates and assessed the worker's emotional workload. As a result, this study provides a benchmark using well-known features and standard machine learning methods. We achieved an accuracy of up to 87% for binary and three-class classification cases. Finally, we discuss the significance of assessing emotional workload and considerations for its practical application in the workplace.
+
+--- 
+
+
 **Charlie and the Semi-Automated Factory: Data-Driven Operator Behavior and Performance Modeling for Human-Machine Collaborative Systems**
 <br>
 

@@ -3,7 +3,7 @@ layout: page
 title: "People"
 ---
 
-## **Professor**
+## **Director**
 
 <div id="gridid" class="col-sm-11">
     <div class="row">
