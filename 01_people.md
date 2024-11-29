@@ -326,6 +326,34 @@ title: "People"
     </div>
     <br><hr>
 
+    <div class="row">
+        <!-- Yongchan Son -->
+        <div class="col-sm-3 clearfix">
+            <img src="https://cookingfoil.github.io/ixlab/figures/yongchan.png" onerror="this.src='https://cookingfoil.github.io/ixlab/figures/user.png';" class="img-responsive" width="150px" style="float: left; margin-right: 40px">
+        </div>
+        <div class="col-sm-9 clearfix">
+            <br>
+            <h4 style="font-family: 'Verdana', sans-serif; font-size: 25px;"><b>Yongchan Son</b></h4>
+            <h4 style="font-family: sans-serif; font-size: 20px;">B.S. Student in CAU</h4>
+        </div>
+    </div>
+    <br><hr>
+
+    <div class="row">
+        <!-- Yongchan Son -->
+        <div class="col-sm-3 clearfix">
+            <img src="https://cookingfoil.github.io/ixlab/figures/Seon-gi.png" onerror="this.src='https://cookingfoil.github.io/ixlab/figures/user.png';" class="img-responsive" width="150px" style="float: left; margin-right: 40px">
+        </div>
+        <div class="col-sm-9 clearfix">
+            <br>
+            <h4 style="font-family: 'Verdana', sans-serif; font-size: 25px;"><b>Seon-gi Yu</b></h4>
+            <h4 style="font-family: sans-serif; font-size: 20px;">B.S. Student in CAU</h4>
+        </div>
+    </div>
+    <br><hr>
+
+    
+
 </div>
 
 ## **Alumni**
