@@ -10,7 +10,7 @@ title: Publications
 *Eunji Park*, Duri Lee, Yunjo Han, James Diefendorff, and Uichin Lee  
 ACM IMWUT 2024 Paper [Download paper](https://cookingfoil.github.io/ixlab/papers/hideandseek.pdf)
 
-**Charlie and the Semi-Automated Factory: Data-Driven Operator Behavior and Performance Modeling for Human-Machine Collaborative Systems**
+**Charlie and the Semi-Automated Factory: Data-Driven Operator Behavior and Performance Modeling for Human-Machine Collaborative Systems** <br>
 *Eunji Park*, Yugyeong Jung, Inyeop Kim, and Uichin Lee  
 ACM CHI 2023 Paper [Download paper](https://cookingfoil.github.io/paper/paper_charlie.pdf)
 
