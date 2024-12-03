@@ -340,9 +340,9 @@ title: "People"
     <br><hr>
 
     <div class="row">
-        <!-- Yongchan Son -->
+        <!-- Seongi Yu -->
         <div class="col-sm-3 clearfix">
-            <img src="https://cookingfoil.github.io/ixlab/figures/Seon-gi.png" onerror="this.src='https://cookingfoil.github.io/ixlab/figures/user.png';" class="img-responsive" width="150px" style="float: left; margin-right: 40px">
+            <img src="https://cookingfoil.github.io/ixlab/figures/seongi.jpeg" onerror="this.src='https://cookingfoil.github.io/ixlab/figures/user.png';" class="img-responsive" width="150px" style="float: left; margin-right: 40px">
         </div>
         <div class="col-sm-9 clearfix">
             <br>
