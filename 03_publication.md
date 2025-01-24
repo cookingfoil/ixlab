@@ -5,9 +5,12 @@ title: Publications
 
 <!-- ## **Conference Papers** -->
 --- 
+**MagPie: Extending a Smartphone's Interaction Space via a Customizable Magnetic Back-of-Device Input Accessory** <br>
+Insu Kim, Suhyeon Shin, Junseob Kim, Jaemin Choi, Junhyub Lee, Sangeun Oh, *Eunji Park*, and Hyosu Kim <br>
+ACM CHI 2025 Paper
 
 **Hide-and-seek: Detecting Workers’ Emotional Workload in Emotional Labor Contexts Using Multimodal Sensing** <br>
-*Eunji Park*, Duri Lee, Yunjo Han, James Diefendorff, and Uichin Lee  
+*Eunji Park*, Duri Lee, Yunjo Han, James Diefendorff, and Uichin Lee <br>
 ACM IMWUT 2024 Paper [Download paper](https://cookingfoil.github.io/ixlab/papers/hideandseek.pdf)
 
 **Charlie and the Semi-Automated Factory: Data-Driven Operator Behavior and Performance Modeling for Human-Machine Collaborative Systems** <br>
