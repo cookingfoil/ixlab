@@ -7,7 +7,7 @@ title: Publications
 --- 
 **MagPie: Extending a Smartphone's Interaction Space via a Customizable Magnetic Back-of-Device Input Accessory** <br>
 Insu Kim, Suhyeon Shin, Junseob Kim, Jaemin Choi, Junhyub Lee, Sangeun Oh, *Eunji Park*, and Hyosu Kim <br>
-ACM CHI 2025 Paper
+ACM CHI 2025 Paper (Conditinally Accepted)
 
 **Hide-and-seek: Detecting Workers’ Emotional Workload in Emotional Labor Contexts Using Multimodal Sensing** <br>
 *Eunji Park*, Duri Lee, Yunjo Han, James Diefendorff, and Uichin Lee <br>
