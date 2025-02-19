@@ -8,7 +8,7 @@ title: "Members"
 <div id="gridid" class="col-sm-11">
     <div class="row">
         <div class="col-sm-3 clearfix">
-            <img src="https://cookingfoil.github.io/ixlab/figures/eunji.jpeg" class="img-responsive" width="150px" style="float: left; margin-right: 40px">
+            <img src="https://cookingfoil.github.io/ixlab/figures/eunji-square.png" class="img-responsive" width="150px" style="float: left; margin-right: 40px">
         </div>
         <div class="col-sm-9 clearfix">
             <h4>
@@ -20,7 +20,7 @@ title: "Members"
                 <div style="font-family: sans-serif; font-size: 20px;">
                     Assistant Professor
                 </div>
-                <br><br>
+                <br>
                 <a href="https://cookingfoil.github.io/"><b>Personal Page</b>
                 </a>&nbsp;&nbsp;<a href="https://cookingfoil.github.io/paper/CV_Eunji_updated_2312.pdf">
                 <b>CV</b>
