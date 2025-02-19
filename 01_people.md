@@ -19,10 +19,10 @@ title: "Members"
             <h4>
                 <div style="font-family: sans-serif; font-size: 20px;">
                     Assistant Professor
-                </div>
+                </div>;
                 <br>
                 <a href="https://cookingfoil.github.io/"><b>Personal Page</b>
-                </a>&nbsp;&nbsp;<a href="https://cookingfoil.github.io/paper/CV_Eunji_updated_2312.pdf">
+                </a>&nbsp;&nbsp;<a href="https://cookingfoil.github.io/ixlab/papers/eunji-cv-250220.pdf">
                 <b>CV</b>
                 </a>
             </h4>
