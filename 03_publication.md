@@ -7,7 +7,7 @@ title: Publications
 --- 
 **MagPie: Extending a Smartphone's Interaction Space via a Customizable Magnetic Back-of-Device Input Accessory** <br>
 Insu Kim, Suhyeon Shin, Junseob Kim, Jaemin Choi, Junhyub Lee, Sangeun Oh, *Eunji Park*, and Hyosu Kim <br>
-ACM CHI 2025 Paper (Conditinally Accepted)
+ACM CHI 2025 Paper 
 
 **Minwon 99: Malicious Civil Complaint Filtering System Using LLM-Based Text Emotion Moderation** 
 <br>
