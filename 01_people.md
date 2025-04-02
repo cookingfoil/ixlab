@@ -48,7 +48,7 @@ title: "Members"
             Chung-Ang University</h4>
         </div>
     </div>
-    <br><br>
+    <br>
     <div class="row">
         <!-- Yejin Choi -->
         <div class="col-sm-3 clearfix">
@@ -81,7 +81,7 @@ title: "Members"
             Chung-Ang University</h4>
         </div>
     </div>
-    <br><hr>
+    <br>
     <div class="row">
         <!-- Hyeonwoo Bae -->
         <div class="col-sm-3 clearfix">
@@ -94,7 +94,7 @@ title: "Members"
             Chung-Ang University</h4>
         </div>
     </div>
-    <br><hr>
+    <br>
     <div class="row">
         <!-- Yejin Jang -->
         <div class="col-sm-3 clearfix">
@@ -107,7 +107,7 @@ title: "Members"
             Chung-Ang University</h4>
         </div>
     </div>
-    <br><hr>
+    <br>
     <div class="row">
         <!-- Been An -->
         <div class="col-sm-3 clearfix">
@@ -120,7 +120,7 @@ title: "Members"
             Chung-Ang University</h4>
         </div>
     </div>
-    <br><hr>
+    <br>
     <div class="row">
         <!-- Minho Kang -->
         <div class="col-sm-3 clearfix">
@@ -131,7 +131,7 @@ title: "Members"
             <h4 style="font-family: sans-serif; font-size: 18px;">B.S. Student in Chemistry,<br>Chung-Ang University</h4>
         </div>
     </div>
-    <br><hr>
+    <br>
     <div class="row">
         <!-- Yongchan Son -->
         <div class="col-sm-3 clearfix">
@@ -143,7 +143,7 @@ title: "Members"
             Chung-Ang University</h4>
         </div>
     </div>
-    <br><hr>
+    <br>
     <div class="row">
         <!-- Seongi Yu -->
         <div class="col-sm-3 clearfix">
