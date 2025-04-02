@@ -12,7 +12,7 @@ ACM CHI 2025 Paper
 **Minwon 99: Malicious Civil Complaint Filtering System Using LLM-Based Text Emotion Moderation** 
 <br>
 Seongmin Choi, Hohyun Song, Yeonghwan Shin, Kyusung Lee, *Eunji Park* <br>
-🏆 <span style="color: red">Best Paper Award</span> <br>
+🏆 <span style="color: red">Best Paper Award</span> (11/159, top 6.9%) <br>
 HCI KOREA 2025 [Download paper](https://cookingfoil.github.io/ixlab/papers/minwon99.pdf)
 
 **Hide-and-seek: Detecting Workers’ Emotional Workload in Emotional Labor Contexts Using Multimodal Sensing** <br>
