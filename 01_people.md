@@ -19,7 +19,6 @@ title: "Members"
             <h4>
                 <div style="font-family: sans-serif; font-size: 18px;">
                     Assistant Professor<br>
-                    Department of CSE, Chung-Ang University
                 </div>
                 <br>
                 <a href="https://cookingfoil.github.io/"><b>Personal Page</b>
@@ -44,8 +43,9 @@ title: "Members"
         <div class="col-sm-9 clearfix">
             <h4 style="font-family: 'Verdana', sans-serif; font-size: 25px;"><br><b>Dohwa Kim</b></h4>
             <h4 style="font-family: sans-serif; font-size: 18px;">
-            B.S.- M.S. Integrated Student in CSE,<br>
-            Chung-Ang University</h4>
+            B.S.- M.S. Integrated Student<br>
+            </h4>
+            <br>
         </div>
     </div>
     <br>
@@ -57,8 +57,9 @@ title: "Members"
         <div class="col-sm-9 clearfix">
             <h4 style="font-family: 'Verdana', sans-serif; font-size: 25px;"><br><b>Yejin Choi</b></h4>
             <h4 style="font-family: sans-serif; font-size: 18px;">
-            B.S.- M.S. Integrated Student in CSE,<br>
-            Chung-Ang University</h4>
+            B.S.- M.S. Integrated Student<br>
+            </h4>
+            <br>
         </div>
     </div>
     <br><hr>
@@ -77,8 +78,9 @@ title: "Members"
         <div class="col-sm-9 clearfix">
             <h4 style="font-family: 'Verdana', sans-serif; font-size: 25px;"><br><b>Jahun Jang</b></h4>
             <h4 style="font-family: sans-serif; font-size: 18px;">
-            B.S. Student in Sociology,<br>
-            Chung-Ang University</h4>
+            B.S. Student CAU<br>
+            </h4>
+            <br>
         </div>
     </div>
     <br>
@@ -90,8 +92,9 @@ title: "Members"
         <div class="col-sm-9 clearfix">
             <h4 style="font-family: 'Verdana', sans-serif; font-size: 25px;"><br><b>Hyeonwoo Bae</b></h4>
             <h4 style="font-family: sans-serif; font-size: 18px;">
-            B.S. Student in CSE,<br>
-            Chung-Ang University</h4>
+            B.S. Student in CAU<br>
+            </h4>
+            <br>
         </div>
     </div>
     <br>
@@ -103,8 +106,9 @@ title: "Members"
         <div class="col-sm-9 clearfix">
             <h4 style="font-family: 'Verdana', sans-serif; font-size: 25px;"><br><b>Yejin Jang</b></h4>
             <h4 style="font-family: sans-serif; font-size: 18px;">
-            B.S. Student in Art & Technology,<br>
-            Chung-Ang University</h4>
+            B.S. Student in CAU<br>
+            </h4>
+            <br>
         </div>
     </div>
     <br>
@@ -116,8 +120,9 @@ title: "Members"
         <div class="col-sm-9 clearfix">
             <h4 style="font-family: 'Verdana', sans-serif; font-size: 25px;"><br><b>Been An</b></h4>
             <h4 style="font-family: sans-serif; font-size: 18px;">
-            B.S. Student in EE,<br>
-            Chung-Ang University</h4>
+            B.S. Student in CAU<br>
+            </h4>
+            <br>
         </div>
     </div>
     <br>
@@ -128,7 +133,9 @@ title: "Members"
         </div>
         <div class="col-sm-9 clearfix">
             <h4 style="font-family: 'Verdana', sans-serif; font-size: 25px;"><br><b>Minho Kang</b></h4>
-            <h4 style="font-family: sans-serif; font-size: 18px;">B.S. Student in Chemistry,<br>Chung-Ang University</h4>
+            <h4 style="font-family: sans-serif; font-size: 18px;">
+            B.S. Student in CAU<br></h4>
+            <br>
         </div>
     </div>
     <br>
@@ -139,8 +146,9 @@ title: "Members"
         </div>
         <div class="col-sm-9 clearfix">
             <h4 style="font-family: 'Verdana', sans-serif; font-size: 25px;"><br><b>Yongchan Son</b></h4>
-            <h4 style="font-family: sans-serif; font-size: 18px;">B.S. Student in CSE,<br>
-            Chung-Ang University</h4>
+            <h4 style="font-family: sans-serif; font-size: 18px;">B.S. Student in CAU<br>
+            </h4>
+            <br>
         </div>
     </div>
     <br>
@@ -151,8 +159,9 @@ title: "Members"
         </div>
         <div class="col-sm-9 clearfix">
             <h4 style="font-family: 'Verdana', sans-serif; font-size: 25px;"><br><b>Seon-gi Yu</b></h4>
-            <h4 style="font-family: sans-serif; font-size: 18px;">B.S. Student in CSE,<br>
-            Chung-Ang University</h4>
+            <h4 style="font-family: sans-serif; font-size: 18px;">B.S. Student in CAU<br>
+            </h4>
+            <br>
         </div>
     </div>
     <br><hr>
