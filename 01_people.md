@@ -73,7 +73,8 @@ title: "Members"
     <div class="row">
         <!-- Jahun Jang -->
         <div class="col-sm-3 clearfix">
-            <img src="https://cookingfoil.github.io/ixlab/figures/jahun.png" class="img-responsive" width="150px" style="float: left; margin-right: 40px">
+            <img src="https://cookingfoil.github.io/ixlab/figures/jahun.png"
+            onerror="this.src='https://cookingfoil.github.io/ixlab/figures/user.png';" class="img-responsive" width="150px" style="float: left; margin-right: 40px">
         </div>
         <div class="col-sm-9 clearfix">
             <h4 style="font-family: 'Verdana', sans-serif; font-size: 25px;"><br><b>Jahun Jang</b></h4>
@@ -87,7 +88,8 @@ title: "Members"
     <div class="row">
         <!-- Hyeonwoo Bae -->
         <div class="col-sm-3 clearfix">
-            <img src="https://cookingfoil.github.io/ixlab/figures/hyeonwoo.png" class="img-responsive" width="150px" style="float: left; margin-right: 40px">
+            <img src="https://cookingfoil.github.io/ixlab/figures/hyeonwoo.png"
+            onerror="this.src='https://cookingfoil.github.io/ixlab/figures/user.png';" class="img-responsive" width="150px" style="float: left; margin-right: 40px">
         </div>
         <div class="col-sm-9 clearfix">
             <h4 style="font-family: 'Verdana', sans-serif; font-size: 25px;"><br><b>Hyeonwoo Bae</b></h4>
