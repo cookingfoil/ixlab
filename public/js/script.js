@@ -1,22 +1,23 @@
 (function(document) {
-  var toggle = document.querySelector('.sidebar-toggle');
-  var sidebar = document.querySelector('#sidebar');
-  var checkbox = document.querySelector('#sidebar-checkbox');
-
   const darkModeToggle = document.getElementById('darkModeToggle');
 
-  darkModeToggle.addEventListener('click', () => {
-    const current = document.documentElement.getAttribute('data-theme');
-    const next = current === 'dark' ? 'light' : 'dark';
-    document.documentElement.setAttribute('data-theme', next);
-    localStorage.setItem('theme', next);
+  // 페이지 로드 시 저장된 테마 적용
+  window.addEventListener('DOMContentLoaded', () => {
+    const savedTheme = localStorage.getItem('theme') || 'light';
+
+    document.documentElement.setAttribute('data-theme', savedTheme);
+    document.body.classList.toggle('dark-mode', savedTheme === 'dark');
+    darkModeToggle.innerText = savedTheme === 'dark' ? '☀️' : '🌙';
   });
 
-  window.addEventListener('DOMContentLoaded', () => {
-    const saved = localStorage.getItem('theme');
-    if (saved) {
-      document.documentElement.setAttribute('data-theme', saved);
-    }
+  // 버튼 클릭 시 테마 전환
+  darkModeToggle.addEventListener('click', () => {
+    const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+    const nextTheme = isDark ? 'light' : 'dark';
+
+    document.documentElement.setAttribute('data-theme', nextTheme);
+    document.body.classList.toggle('dark-mode', nextTheme === 'dark');
+    localStorage.setItem('theme', nextTheme);
+    darkModeToggle.innerText = nextTheme === 'dark' ? '☀️' : '🌙';
   });
 })(document);
-

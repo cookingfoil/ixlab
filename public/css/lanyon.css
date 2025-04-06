@@ -610,21 +610,19 @@ html[data-theme="dark"] {
   html:not([data-theme="light"]) {
     --main-background-color: #1c1c1e;
     --main-text-color: #e5e5ea;
-    --link-color: #64d2ff;
+    --link-color: #f2ff64;
   }
 }
 
 /* 실제 적용 */
-body {
+/* body {
   background-color: var(--main-background-color);
   color: var(--main-text-color);
 }
 
 a {
   color: var(--link-color);
-}
-
-
+} */
 
 .dark-mode-toggle {
   position: fixed;

@@ -19,21 +19,30 @@ title: Home
       font-family: sans-serif;
       font-size: 18px;
     }
+
     .section-title {
       font-family: 'Roboto Mono', 'Verdana', sans-serif;
       font-size: 23px;
       font-weight: bold;
-      color: white;               /* 글자 색상 */
+      color: rgb(0, 0, 0);               /* 글자 색상 */
       background-color: #00000012;  /* 배경 색상 */
-      padding: 0.3em 0.8em;       /* 배경이 잘 보이게 약간의 여백도 추가 */
-      border-radius: 0.1em;       /* 둥글게 처리하면 더 부드러워 보여요 (선택 사항) */
+      padding: 0.3em 0.8em;       /* 여백 추가 */
+      border-radius: 0.1em;       /* 둥글게 처리 */
       display: inline-block;      /* 배경이 글자만큼만 나오도록 */
     }
+    
+    body.dark-mode .section-title {
+      color: #ffffff;
+      background-color: rgba(255, 255, 255, 0.1);
+    }
+    
+
+
     /* 슬라이더 스타일 */
     .slider {
       position: relative;
       width: 100%;
-      max-width: 600px; /* 슬라이더의 최대 너비 설정 */
+      max-width: 700px; /* 슬라이더의 최대 너비 설정 */
       margin: auto;
       overflow: hidden;
       border-radius: 8px;
@@ -73,7 +82,7 @@ title: Home
 
 
     .top-section {
-      padding: 0rem 0rem; /* 60px, 20px 기준 */
+      padding: 0rem 0rem; 
       background-color: #ffffff00;
     }
     
@@ -94,7 +103,13 @@ title: Home
     
     .column {
       flex: 1;
-      padding: 1.25rem; /* 20px */
+      padding: 0rem; /* 20px */
+    }
+
+    .column.text-align-middle {
+      display: flex;
+      align-items: center;      /* 세로 가운데 정렬 */
+      justify-content: center;  /* 가로도 가운데 정렬하고 싶을 경우 */
     }
     
     .column-third {
@@ -109,10 +124,28 @@ title: Home
       box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05); /* 부드러운 그림자 */
       background-color: #fff;  /* 배경색 흰색 (선명하게) */
     }
+
+    body.dark-mode .column-third {
+      color: #ffffff;
+      background-color: rgba(255, 255, 255, 0.138);
+      border: transparent;
+
+    }
     
     @media (max-width: 70rem) {
       .row {
         flex-direction: column;
+      }
+    }
+
+
+    .mobile-br {
+      display: none;
+    }
+    
+    @media (max-width: 768px) {
+      .mobile-br {
+        display: inline;
       }
     }
 
@@ -126,10 +159,15 @@ title: Home
       <div class="row">
         <div class="column">
           <!-- <img class="img-fluid" src="figures/labASCII.png" alt="yellow and black logo" style="width: 80%;"> -->
-          <br><br>
-          <h1>IXLAB <span style="color: rgba(165, 164, 164, 0.600);"> Interaction + </span><span style="color: rgb(34, 0, 255);">X</span> <span style="color: rgba(165, 164, 164, 0.600);">Lab</span></h1>
+          <br><br><br>
+
+          <div style="font-family: sans-serif; font-size: 30px;">
+            <b>IXLAB</b> <span style="color: rgb(165, 164, 164);"> <span class="mobile-br"><br></span>Interaction + </span><span style="color: rgb(34, 0, 255);">X</span> <span style="color: rgba(165, 164, 164);">Lab</span>
+          </div>
           
-          <h2>중앙대학교<span class="mobile-br"><br></span>인간-컴퓨터 상호작용 연구실</h2>
+          <div style="font-family: sans-serif; font-size: 25px;">
+            중앙대학교 <span class="mobile-br"><br></span>인간-컴퓨터 상호작용 연구실
+          </div>
           <br>
 
           <!-- <p>IXLAB aims to quantitatively measure and evaluate the invisible interactions between humans and computers based on data, ultimately striving to optimize the interactions. We prioritize building and advancing each student's individual research area in the field of human-computer interaction.</p><br> -->
@@ -201,7 +239,7 @@ title: Home
 
 <!-- News Section  -->
 
-  <div class="section-title"><span style="color: rgb(0, 0, 0);">News &#10024;</span></div>
+  <div class="section-title">News &#10024;</div>
   <div class="news-item">
   
     <style>
@@ -256,7 +294,7 @@ title: Home
 
 <!-- Research Topics section -->
 
-<div class = "section-title"><span style="color: rgb(0, 0, 0);">Research Topics &#10024;</span></div>
+<div class = "section-title">Research Topics &#10024;</div>
 <div class = "section-content">
   <section class="top-section">
     <br>
@@ -297,7 +335,7 @@ title: Home
 <hr>
 
 <!-- About IXLAB section -->
-<div class="section-title"><span style="color: rgb(0, 0, 0);">About IXLAB &#10024;</span></div>
+<div class="section-title">About IXLAB &#10024;</div>
 <div class="section-content">
   <br>
   
@@ -316,7 +354,7 @@ title: Home
 
 
 <!-- We are looking for you section -->
-<div class="section-title"><span style="color: rgb(0, 0, 0);">We are looking for you!</span></div>
+<div class="section-title">We are looking for you!</div>
 <div class="section-content">
   <br>
   <b> 📣 Open positions (Last updated: Apr. 2025)</b>
