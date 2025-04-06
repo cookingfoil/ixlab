@@ -5,4 +5,74 @@ layout: default
 <div class="page">
   <h1 class="page-title">{{ page.title }}</h1>
   {{ content }}
+
+  <style>
+    .top-section {
+      padding: 0rem 0rem; /* 60px, 20px 기준 */
+      background-color: #ffffff00;
+    }
+    
+    .container {
+      max-width: 60rem; /* 1200px */
+      margin: 0 auto;
+    }
+    
+    .row {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+    
+    .column-left, .column-right {
+      flex: 1;
+      padding: 1.25rem; /* 20px */
+    }
+    
+    @media (max-width: 30rem) {
+      .row {
+        flex-direction: column;
+      }
+    }
+
+
+
+
+    .members-row {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: left;
+      gap: 2em;
+      margin-top: 2em;
+    }
+    
+    .member-column {
+      flex: 1 1 20%; /* 최대 4개 per row */
+      max-width: 250px;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .member-photo {
+      width: 100%;
+      max-width: 200px;
+      aspect-ratio: 1 / 1;
+      object-fit: cover;
+      border-radius: 10px; /* 사진 라운드 */
+      margin-bottom: 0.75em;
+    }
+    .member-info {
+      font-size: 1.2em;
+      line-height: 1.4;
+      font-family: 'Noto Sans KR', sans-serif;
+    }
+    
+    @media (max-width: 768px) {
+      .member-column {
+        flex: 1 1 45%;
+      }
+    }
+
+
+  </style>
 </div>

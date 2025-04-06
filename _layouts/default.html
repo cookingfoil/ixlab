@@ -13,9 +13,14 @@
       <div class="masthead">
         <div class="container">
           <h3 class="masthead-title">
-            <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-            <small>{{ site.tagline }}</small>
+            <a href="{{ site.baseurl }}/" title="Home">
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              {{ site.title }}
+            <small>{{ site.tagline }}</small></a>
           </h3>
+
+          <!-- <button id="darkModeToggle" class="dark-mode-toggle" title="Toggle Dark Mode">🌙</button> -->
+
         </div>
       </div>
 
@@ -28,4 +33,26 @@
 
     <script src='{{ site.baseurl }}/public/js/script.js'></script>
   </body>
+
+
+  <script>
+    const darkModeToggle = document.getElementById('darkModeToggle');
+  
+    darkModeToggle.addEventListener('click', () => {
+      const current = document.documentElement.getAttribute('data-theme');
+      const next = current === 'dark' ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', next);
+      localStorage.setItem('theme', next);
+    });
+  
+    window.addEventListener('DOMContentLoaded', () => {
+      const saved = localStorage.getItem('theme');
+      if (saved) {
+        document.documentElement.setAttribute('data-theme', saved);
+      }
+    });
+  </script>
+  
+
+  
 </html>

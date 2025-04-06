@@ -4,24 +4,19 @@
   var checkbox = document.querySelector('#sidebar-checkbox');
 
   const darkModeToggle = document.getElementById('darkModeToggle');
-    const body = document.body;
 
-    darkModeToggle.addEventListener('click', () => {
-        body.classList.toggle('dark-mode');
+  darkModeToggle.addEventListener('click', () => {
+    const current = document.documentElement.getAttribute('data-theme');
+    const next = current === 'dark' ? 'light' : 'dark';
+    document.documentElement.setAttribute('data-theme', next);
+    localStorage.setItem('theme', next);
+  });
 
-        const currentTheme = body.classList.contains('dark-mode') ? 'dark' : 'light';
-        document.documentElement.setAttribute('data-theme', currentTheme);
-    });
-
-
-  document.addEventListener('click', function(e) {
-    var target = e.target;
-
-    if(!checkbox.checked ||
-       sidebar.contains(target) ||
-       (target === checkbox || target === toggle)) return;
-
-    checkbox.checked = false;
-  }, false);
+  window.addEventListener('DOMContentLoaded', () => {
+    const saved = localStorage.getItem('theme');
+    if (saved) {
+      document.documentElement.setAttribute('data-theme', saved);
+    }
+  });
 })(document);
 

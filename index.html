@@ -13,15 +13,21 @@ title: Home
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400&display=swap" rel="stylesheet">
   <title>IX Lab Home</title>
+
   <style>
     body {
       font-family: sans-serif;
-      font-size: 16px;
+      font-size: 18px;
     }
     .section-title {
       font-family: 'Roboto Mono', 'Verdana', sans-serif;
-      font-size: 25px;
+      font-size: 23px;
       font-weight: bold;
+      color: white;               /* 글자 색상 */
+      background-color: #00000012;  /* 배경 색상 */
+      padding: 0.3em 0.8em;       /* 배경이 잘 보이게 약간의 여백도 추가 */
+      border-radius: 0.1em;       /* 둥글게 처리하면 더 부드러워 보여요 (선택 사항) */
+      display: inline-block;      /* 배경이 글자만큼만 나오도록 */
     }
     /* 슬라이더 스타일 */
     .slider {
@@ -63,40 +69,160 @@ title: Home
     }
     .prev { left: 10px; }
     .next { right: 10px; }
+
+
+
+    .top-section {
+      padding: 0rem 0rem; /* 60px, 20px 기준 */
+      background-color: #ffffff00;
+    }
+    
+    .container {
+      max-width: 80rem; /* 1200px */
+      margin: 0 auto;
+    }
+    
+    .row {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+
+      gap: 3em;
+      align-items: stretch;
+      justify-content: center;
+    }
+    
+    .column {
+      flex: 1;
+      padding: 1.25rem; /* 20px */
+    }
+    
+    .column-third {
+      flex: 1;
+      padding: 1.25rem; /* 20px */
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+
+      border: 1px solid #ddd; /* 연한 회색 선 */
+      border-radius: 8px;      /* 모서리를 둥글게 */
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05); /* 부드러운 그림자 */
+      background-color: #fff;  /* 배경색 흰색 (선명하게) */
+    }
+    
+    @media (max-width: 70rem) {
+      .row {
+        flex-direction: column;
+      }
+    }
+
+    
   </style>
 </head>
 
 <body>
+  <section class="top-section">
+    <div class="container">
+      <div class="row">
+        <div class="column">
+          <!-- <img class="img-fluid" src="figures/labASCII.png" alt="yellow and black logo" style="width: 80%;"> -->
+          <br><br>
+          <h1>IXLAB <span style="color: rgba(165, 164, 164, 0.600);"> Interaction + </span><span style="color: rgb(34, 0, 255);">X</span> <span style="color: rgba(165, 164, 164, 0.600);">Lab</span></h1>
+          
+          <h2>중앙대학교 인간-컴퓨터 상호작용 연구실</h2>
+          <br>
 
-  <img class="img-fluid" src="figures/lab-logo.png" alt="yellow and black logo"><br>
+          <!-- <p>IXLAB aims to quantitatively measure and evaluate the invisible interactions between humans and computers based on data, ultimately striving to optimize the interactions. We prioritize building and advancing each student's individual research area in the field of human-computer interaction.</p><br> -->
+          <p>IXLAB aims to develop and optimize intelligent interactive systems that perceive user states (sensing), infer latent patterns (modeling), and react intelligently (adapting) to users. 
+            Our research integrates <b><i>human-centered AI</i></b>, <b><i>data-driven modeling</i></b> with <b><i>model personalization</i></b>, and <b><i>multimodal sensor fusion</i></b>.</p>
+          
+          <!-- <p>인간 중심 인터랙션 기술을 연구하는 중앙대학교 연구실입니다.</p> -->
+        </div>
+        <div class="column">
+          <!-- <img src="/public/IXLab-logos/IXLab-logos.jpeg" alt="IX Lab 로고" style="max-width: 100%;">
+            -->
+            <div class="slider">
+              <div class="slides">
+            
+                <div class="slide">
+                  <img src="figures/labpic-2502-2.jpg" alt="labpic7">
+                </div>
+            
+                <div class="slide">
+                  <img src="figures/labpic-2502.jpg" alt="labpic6">
+                </div>
+            
+                <div class="slide">
+                  <img src="figures/picnic.jpg" alt="labpic1">
+                </div>
+            
+                <!-- <div class="slide">
+                  <img src="figures/labpic-241105.JPG" alt="labpic2">
+                </div> -->
+            
+                <div class="slide">
+                  <img src="figures/labpic-241105-2.JPG" alt="labpic3">
+                </div>
+            
+                <div class="slide">
+                  <img src="figures/labpic-241105-3.JPG" alt="labpic4">
+                </div>
+            
+                <div class="slide">
+                  <img src="figures/geng.JPG" alt="labpic5">
+                </div>
+            
+              </div>
+              <!-- Previous and Next Buttons -->
+              <div class="prev" onclick="changeSlide(-1)">&#10094;</div>
+              <div class="next" onclick="changeSlide(1)">&#10095;</div>
+            </div>
+            
+            <script>
+              let currentSlide = 0;
+              
+              function showSlide(index) {
+                const slides = document.querySelector('.slides');
+                const totalSlides = document.querySelectorAll('.slide').length;
+                currentSlide = (index + totalSlides) % totalSlides;
+                slides.style.transform = `translateX(-${currentSlide * 100}%)`;
+              }
+            
+              function changeSlide(direction) {
+                showSlide(currentSlide + direction);
+              }
+            </script>
+        </div>
+      </div>
+    </div>
+  </section>
+  <hr>
+  
 
+<!-- News Section  -->
 
-  <div class="section-title">News &#10024;</div>
+  <div class="section-title"><span style="color: rgb(0, 0, 0);">News &#10024;</span></div>
   <div class="news-item">
   
     <style>
       #more {display: none;}
     </style> 
-    
+    <br>
     🎉 <b>Mar 2025</b> IXLAB has started joint research with ETRI (Total budget: 4억 KRW) <br>
     🙌 <b>Mar 2025</b> Dohwa and Yejin started the B.S.- M.S. integrated program at IX Lab! <br>
-    🏆 <b>Jan 2025</b> "Minwon 99: Malicious Civil Complaint Filtering System Using LLM-Based Text Emotion Moderation" paper was awarded <b>Best Paper Award</b> at HCI KOREA 2025 <br>
+    🏆 <b>Jan 2025</b> "Minwon 99: Malicious Civil Complaint Filtering System Using LLM-Based Text Emotion Moderation" was awarded <b>Best Paper Award</b> at HCI KOREA 2025 (<a href="https://cse.cau.ac.kr/sub05/sub0503.php?nmode=view&code=oktomato_bbs05&uid=1300">link</a>)<br>
     &#127918; <b>Jan 2025</b> IX Lab visited <a href="https://geng.gg/">Gen.G</a> 🐯 &#128171; <br>
     🎉 <b>Jan 2025</b> 1 paper has been conditionally accepted at <b>CHI 2025</b>! <br>
     🎉 <b>Dec 2025</b> Dohwa has started an internship at ETRI <br>
-    🎉 <b>Nov 2024</b> "Minwon 99: Malicious Civil Complaint Filtering System Using LLM-Based Text Emotion Moderation" paper has been accepted at HCI Korea 2025 <br> 
     &#128588; <b>Nov 2024</b> Yongchan and Seon-gi joined IX Lab as undergraduate researcher <br>
-
-    <span id="dots">...</span><span id="more">
-
     &#128588; <b>Sep 2024</b> Jin joined IX Lab as undergraduate researcher <br>
     🎉 <b>Jul 2024</b> "Hide-and-seek: Detecting Workers' Emotional Workload in Emotional Labor Contexts Using Multimodal Sensing" paper has been accepted at <b>IMWUT 2024</b>! <br>
     &#128588; <b>Jun 2024</b> Minho joined IX Lab as undergraduate researcher <br>
     🎉 <b>Jun 2024</b> Dohwa and Yejin (Jang) presented their research paper at KICS 2024 <br> 
     🎙️ <b>May 2024</b> Eunji visited and gave a talk at ETRI <br>
-  
-    
-  
+
+    <span id="dots">...</span><span id="more">
+
     &#128588; <b>Jan 2024</b> Been An joined IX Lab as undergraduate researcher <br>
     &#128588; <b>Dec 2023</b> Yejin Jang and Yejin Choi joined IX Lab as undergraduate researcher <br>
     &#128588; <b>Nov 2023</b> Hyeonwoo and Dohwa joined IX Lab as undergraduate researcher <br> 
@@ -128,84 +254,121 @@ title: Home
   <hr>
 
 
-<!-- <img class="img-fluid" src="figures/labASCII.png" alt="IX Lab ASCII Art"><br> -->
+<!-- Research Topics section -->
 
-<!-- Image Slider Section -->
-<div class="slider">
-  <div class="slides">
+<div class = "section-title"><span style="color: rgb(0, 0, 0);">Research Topics &#10024;</span></div>
+<div class= = "section-content">
+  <section class="top-section">
+    <br>
+    Our research topics include but not limited to: <br>
+          
+        <br>
+    <div class="container">
+      <div class="row">
 
-    <div class="slide">
-      <img src="figures/labpic-2502-2.jpg" alt="labpic7">
+        
+        <div class="column-third">
+          <a href="/02_projects#hideandseek"><b>Human-centered AI</b></a>
+          <br><br>
+          <img src="figures/hideandseek.png" alt="hideandseek main figure">
+        </div>
+
+
+        <div class="column-third">
+          <a href="/02_projects#charlie"><b>Data-driven Modeling with<br>Model Personalization</b></a>
+          <br><br>
+
+          <img src="figures/charlie.png" alt="Charlie and semi-automated factory main figure">
+          <img src="figures/charlieresults.png" alt="Charlie and semi-automated factory main figure">
+        </div>
+
+        <div class="column-third">
+          <a href="/02_projects#gosusecrets"><b>Multimodal Sensing and<br>Sensor Fusion</b></a>
+          <br><br>
+
+          <img src="figures/sensors.png" alt="Charlie and semi-automated factory main figure">
+          <img src="figures/LoggingSystem.png" alt="Charlie and semi-automated factory main figure">
+
+        </div>
+
     </div>
-
-    <div class="slide">
-      <img src="figures/labpic-2502.jpg" alt="labpic6">
-    </div>
-
-    <div class="slide">
-      <img src="figures/picnic.jpg" alt="labpic1">
-    </div>
-
-    <!-- <div class="slide">
-      <img src="figures/labpic-241105.JPG" alt="labpic2">
-    </div> -->
-
-    <div class="slide">
-      <img src="figures/labpic-241105-2.JPG" alt="labpic3">
-    </div>
-
-    <div class="slide">
-      <img src="figures/labpic-241105-3.JPG" alt="labpic4">
-    </div>
-
-    <div class="slide">
-      <img src="figures/geng.JPG" alt="labpic5">
-    </div>
-
-  </div>
-  <!-- Previous and Next Buttons -->
-  <div class="prev" onclick="changeSlide(-1)">&#10094;</div>
-  <div class="next" onclick="changeSlide(1)">&#10095;</div>
+  </section>
 </div>
+<hr>
 
-<script>
-  let currentSlide = 0;
-  
-  function showSlide(index) {
-    const slides = document.querySelector('.slides');
-    const totalSlides = document.querySelectorAll('.slide').length;
-    currentSlide = (index + totalSlides) % totalSlides;
-    slides.style.transform = `translateX(-${currentSlide * 100}%)`;
-  }
-
-  function changeSlide(direction) {
-    showSlide(currentSlide + direction);
-  }
-</script>
-
-<!-- Image Section -->
-
-<!-- <img class="img-fluid" src="figures/picnic.jpg" alt="IX Lab Picnic"><br> -->
-
-<!-- About Section -->
-<br>
-<div class="section-title">About IX Lab &#10024;</div>
+<!-- About IXLAB section -->
+<div class="section-title"><span style="color: rgb(0, 0, 0);">About IXLAB &#10024;</span></div>
 <div class="section-content">
-  <p>
-    We are looking for passionate students interested in solving real-life issues from the perspective of human-computer interaction (HCI). IX Lab aims to quantitatively measure and evaluate the invisible interactions between humans and computers based on data, ultimately striving to optimize these interactions. We prioritize building and advancing each student's individual research area in the field of human-computer interaction.
-  </p>
-  <p>
-    IX Lab에서는 인간-컴퓨터 상호작용(HCI)의 관점에서 우리 생활과 밀접한 문제들을 정의하고 솔루션을 찾아가는 과정을 즐기는 열정적인 학생들을 모집합니다. IX Lab은 인간과 컴퓨터 사이에 눈에 보이지 않는 인터랙션을 정량적으로 측정하고 평가하여 궁극적으로는 인터랙션을 최적화하는 것을 목표로 합니다. 데이터를 기반으로 유저의 행동과 그에 따른 퍼포먼스를 예측할 수 있는 모델을 만들고, 모델을 기반으로 시스템을 효율적으로 최적화하는 연구들을 진행합니다.
-  </p>
-  <p>
-    연구실은 개개인의 연구 관심 분야를 존중하며 체계적인 신입생 교육 과정을 통해 학생 개인의 연구 분야를 확립해나가는 것을 중요하게 생각합니다. 다른 사람들은 지나칠 수 있는 현상들에 문제 삼기를 좋아하고, 이 문제를 해결하기 위해 논쟁을 즐기는 열정적인 학생을 기다립니다.
-  </p>
-  <p>
-    더불어, 연구를 경험하는 것은 매우 매력적인 일이지만 석사, 박사 진학을 결정하는 일은 쉽지 않습니다. 졸업 전이라면 학부연구생을 해보는 것을 추천하며, 학부연구생 및 석, 박사 진학 상담을 원하는 학생들은 eunjipark(at)cau.ac.kr로 메일 주세요.
-  </p>
+  <br>
+  
+  Our research focuses on <b>Human-Computer Interaction</b> and <b>Human-centered AI</b>. IXLAB aims to design and optimize intelligent interactive systems that deeply understand and adapt to human users. Our approach is based on three core processes:
+  <br><br>
+  (1) Sensing — perceiving users’ physical, cognitive, and emotional states through multimodal signals (phone, wearable, and IoT sensors),<br>
+  (2) Modeling — analyzing and inferring latent behavioral and contextual patterns through data-driven models and model personalization, and<br>
+  (3) Adapting — enabling systems to respond intelligently and supportively in real-time to users.<br>
+  <br>
+  
+  We employ methods including <b>ML/DL, data-driven user modeling, multimodal signal processing, and sensor fusion</b> to build systems that are not only technically robust but also meaningfully responsive to human needs. 
+  Ultimately, IXLAB aims to develop technologies that better understand users and actively support their needs — from everyday interactions to complex decision-making scenarios.
 </div>
 
 <hr>
+
+
+<!-- We are looking for you section -->
+<div class="section-title"><span style="color: rgb(0, 0, 0);">We are looking for you! &#10024;</span></div>
+<div class="section-content">
+  <br>
+  <b> 📣 Open positions (Last updated: Apr. 2025)</b>
+  <ul>
+    <li><b>1</b> for <b>Undergraduate Research Internship</b></li>
+  </ul>
+
+  <p>
+    We are looking for passionate students who enjoy identifying and solving real-world problems from the perspective of Human-Computer Interaction (HCI). 
+    Our goal is to quantitatively measure and evaluate the invisible interactions between humans and computers, ultimately optimizing these interactions. 
+    We build data-driven models that predict user behavior and performance, and based on these models, we develop systems that enhance interaction efficiency.
+  </p>
+
+  <p>
+    IXLAB prioritizes building and advancing each student's individual research area in the field of human-computer interaction through a structured onboarding and mentoring process.
+    We are looking for passionate students who enjoy identifying issues in phenomena that others might overlook, and who are eager to engage in discussion to solve them.
+  </p>
+
+  <p>
+    While engaging in research can be an incredibly rewarding experience, deciding whether to pursue a master's or Ph.D. program is not an easy choice.
+    A good fit between the student and advisor is just as important as the research topic itself for a fulfilling research journey.
+    We strongly recommend joining our undergraduate intern program to gain firsthand experience working with the IX Lab advisor.
+    If you are interested in joining IXLAB, please feel free to contact eunjipark(at)cau.ac.kr.
+    <!-- We are looking for passionate students interested in solving real-life issues from the perspective of human-computer interaction (HCI). IXLAB aims to quantitatively measure and evaluate the invisible interactions between humans and computers based on data, ultimately striving to optimize these interactions. We prioritize building and advancing each student's individual research area in the field of human-computer interaction. -->
+  </p>
+  <br>
+  <p>
+    IXLAB에서는 인간-컴퓨터 상호작용(HCI)의 관점에서 우리 생활과 밀접한 문제들을 정의하고 솔루션을 찾아가는 과정을 즐기는 열정적인 학생들을 모집합니다. 
+    IX Lab은 인간과 컴퓨터 사이에 눈에 보이지 않는 인터랙션을 정량적으로 측정하고 평가하여 궁극적으로는 인터랙션을 최적화하는 것을 목표로 합니다. 
+    데이터를 기반으로 유저의 행동과 그에 따른 퍼포먼스를 예측할 수 있는 모델을 만들고, 모델을 기반으로 시스템을 효율적으로 최적화하는 연구들을 진행합니다.
+  </p>
+  <p>
+    연구실은 개개인의 연구 관심 분야를 존중하며 체계적인 신입생 교육 과정을 통해 학생 개인의 연구 분야를 확립해나가는 것을 중요하게 생각합니다. 
+    다른 사람들은 지나칠 수도 있는 현상들에 문제 삼기를 좋아하고, 이 문제를 해결하기 위해 논쟁을 즐기는 열정적인 학생을 기다립니다.
+  </p>
+  <p>
+    더불어, 연구를 경험하는 것은 매우 매력적인 일이지만 석사, 박사 진학을 결정하는 일은 쉽지 않습니다. 
+    또한, 행복한 연구 생활을 위해서라면 연구 분야 뿐만 아니라 학생과 지도교수 간의 fit도 매우 중요합니다. 
+    졸업 전이라면 학부 인턴 프로그램을 통해 IXLAB의 advisor와 함께 일하는 경험을 해볼 것을 강력하게 추천합니다. 
+    IXLAB에서 운영하는 학부연구생 프로그램 및 석/박사 진학에 관심이 있다면 eunjipark(at)cau.ac.kr로 메일 주세요. 
+  </p>
+
+</div>
+
+<hr>
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; width: 15em; margin: 0 auto;">
+  <p style="margin-top: 0px;">Updated on 7 Apr, 2025</p>
+  <img src="figures/singlelogo.png" alt="Logo 1">
+  
+</div>
+
+
 
 </body>
 </html>
