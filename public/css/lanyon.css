@@ -105,8 +105,11 @@ h1, h2, h3, h4, h5, h6 {
   color: #505050;
 }
 .masthead-title a {
+  display: inline-block;
+  padding-left: 10rem;
   color: #505050;
 }
+
 .masthead-title small {
   font-size: 75%;
   font-weight: 400;
