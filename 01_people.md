@@ -24,9 +24,9 @@ title: "Members"
 <div class="member-column"></div>
 <div class="member-column"></div>
 <div class="member-column"></div>
----
+<!-- --- -->
 
-## **Integrated B.S.–M.S. Student**
+<!-- ## **Integrated B.S.–M.S. Student**
 
 
 
@@ -51,7 +51,7 @@ title: "Members"
 
   <div class="member-column"></div>
 
-</div>
+</div> -->
 
 
 
@@ -72,6 +72,20 @@ title: "Members"
     <img src="https://cookingfoil.github.io/ixlab/figures/hyeonwoo.png" class="member-photo">
     <div class="member-info">
       <strong>Hyeonwoo Bae</strong>
+    </div>
+  </div>
+
+  <div class="member-column">
+    <img src="https://cookingfoil.github.io/ixlab/figures/dohwa.jpg" alt="Dohwa" class="member-photo">
+    <div class="member-info">
+      <strong>Dohwa Kim</strong>
+    </div>
+  </div>
+
+  <div class="member-column">
+    <img src="https://cookingfoil.github.io/ixlab/figures/yejinchoi.jpg" alt="Yejin Choi" class="member-photo">
+    <div class="member-info">
+      <strong>Yejin Choi</strong>
     </div>
   </div>
 
