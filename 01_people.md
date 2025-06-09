@@ -125,7 +125,7 @@ title: "Members"
   </div>
 
   <div class="member-column">
-    <img src="https://cookingfoil.github.io/ixlab/figures/seungbok.jpeg" class="member-photo">
+    <img src="https://cookingfoil.github.io/ixlab/figures/seungbok.png" class="member-photo">
     <div class="member-info">
       <strong>Seungbok Lee</strong>
     </div>
