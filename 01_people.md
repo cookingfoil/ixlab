@@ -71,7 +71,7 @@ title: "Members"
   <div class="member-column">
     <img src="https://cookingfoil.github.io/ixlab/figures/hyeonwoo.png" class="member-photo">
     <div class="member-info">
-      <strong>Hyeonwoo Bae</strong>
+      <strong>Hyunwoo Bae</strong>
     </div>
   </div>
 
