@@ -5,6 +5,10 @@ title: Publications
 
 <!-- ## **Conference Papers** -->
 --- 
+**Human Digital Twins for Pervasive Healthcare: A Scoping Review** <br>
+Joonyoung Park\*, *Eunji Park*\*, Duri Lee, Soowon Kang, Takyeon Lee, Hwajung Hong, Sung-Ju Lee, Heepyung Kim, Yu Rang Park, Uichin Lee (\* Co-first authors) <br>
+Health Informatics Journal (2025) [Download paper]()
+
 **TBA**<br>
 *Been An*, Hojoon Lee, and *Eunji Park* <br>
 ACM UIST 2025 Poster 
