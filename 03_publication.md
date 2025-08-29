@@ -6,32 +6,32 @@ title: Publications
 <!-- ## **Conference Papers** -->
 --- 
 **Human Digital Twins for Pervasive Healthcare: A Scoping Review** <br>
-Joonyoung Park\*, *Eunji Park*\*, Duri Lee, Soowon Kang, Takyeon Lee, Hwajung Hong, Sung-Ju Lee, Heepyung Kim, Yu Rang Park, Uichin Lee✝ (\* Co-first authors) <br>
+Joonyoung Park\*, *Eunji Park*\*, Duri Lee, Soowon Kang, Takyeon Lee, Hwajung Hong, Sung-Ju Lee, Heepyung Kim, Yu Rang Park, Uichin Lee (\* Co-first authors) <br>
 Health Informatics Journal (2025) [Download paper]()
 
 **TBA**<br>
-*Been An*, Hojoon Lee, and *Eunji Park*✝ <br>
+*Been An*, Hojoon Lee, and *Eunji Park* <br>
 ACM UIST 2025 Poster 
 
 **TBA**<br>
-*Yejin Choi*, *Dohwa Kim*, Youngeun Jun, Hyosu Kim, and *Eunji Park*✝ <br>
+*Yejin Choi*, *Dohwa Kim*, Youngeun Jun, Hyosu Kim, and *Eunji Park* <br>
 ACM UIST 2025 Poster
 
 **TBA**<br>
-*Yongchan Son* and *Eunji Park*✝ <br>
+*Yongchan Son* and *Eunji Park* <br>
 ACM UIST 2025 Poster
 
 **TBA**<br>
-*Hyunwoo Bae*, Taegyun Kwon, and *Eunji Park*✝ <br>
+*Hyunwoo Bae*, Taegyun Kwon, and *Eunji Park* <br>
 ACM UIST 2025 Poster
 
 **MagPie: Extending a Smartphone's Interaction Space via a Customizable Magnetic Back-of-Device Input Accessory** <br>
-Insu Kim, Suhyeon Shin, Junseob Kim, Jaemin Choi, Junhyub Lee, Sangeun Oh, *Eunji Park*, and Hyosu Kim✝ <br>
+Insu Kim, Suhyeon Shin, Junseob Kim, Jaemin Choi, Junhyub Lee, Sangeun Oh, *Eunji Park*, and Hyosu Kim <br>
 ACM CHI 2025 Paper [Download paper](https://cookingfoil.github.io/ixlab/papers/magpie.pdf)
 
 **Minwon 99: Malicious Civil Complaint Filtering System Using LLM-Based Text Emotion Moderation** 
 <br>
-Seongmin Choi, Hohyun Song, Yeonghwan Shin, Kyusung Lee, *Eunji Park*✝ <br>
+Seongmin Choi, Hohyun Song, Yeonghwan Shin, Kyusung Lee, *Eunji Park* <br>
 🏆 <span style="color: red">Best Paper Award</span> (11/159, top 6.9%) <br>
 HCI KOREA 2025 [Download paper](https://cookingfoil.github.io/ixlab/papers/minwon99.pdf)
 
