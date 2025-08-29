@@ -176,7 +176,32 @@ title: Home
       }
     }
 
-    
+    .hover-image {
+    position: relative;
+    width: 100%;
+    height: auto;
+  }
+
+  .hover-image img {
+    display: block;
+    width: 100%;
+    transition: opacity 0.4s ease;
+  }
+
+  .hover-image .hover-img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+  }
+
+  .hover-image:hover .hover-img {
+    opacity: 1;
+  }
+
+  .hover-image:hover .default-img {
+    opacity: 0;
+  }
   </style>
 
 </head>
@@ -208,6 +233,11 @@ title: Home
             -->
             <div class="slider">
               <div class="slides">
+
+                <div class="slide hover-image">
+                  <img src="figures/labpic-2508-2.png" class="default-img">
+                  <img src="figures/labpic-2508-1.png" class="hover-img">
+                </div>
 
                 <div class="slide">
                   <img src="figures/labpic-2025spring.jpg" alt="labpic8">
@@ -285,8 +315,8 @@ title: Home
     🎮 <span class="date-box"><b>May 2025</b></span>IXLAB has signed a MOU with <a href="https://geng.gg/">Gen.G Esports</a> 🐯, and its affilated institutions, <a href="https://ggacademy.gg/">Gen.G Global Academy</a>!<br>
     🎙️ <span class="date-box"><b>May 2025</b></span>Eunji visited and gave a talk at ETRI <br> 
     🎉 <span class="date-box"><b>Mar 2025</b></span>IXLAB has started joint research with ETRI <br>
-    🙌 <span class="date-box"><b>Mar 2025</b></span> Dohwa and Yejin started the B.S.- M.S. integrated program at IXLAB! <br>
-    🏆 <span class="date-box"><b>Jan 2025</b></span>"Minwon 99: Malicious Civil Complaint Filtering System Using LLM-Based Text Emotion Moderation" was awarded <b>Best Paper Award</b> at HCI KOREA'25 (<a href="https://cse.cau.ac.kr/sub05/sub0503.php?nmode=view&code=oktomato_bbs05&uid=1300">link</a>)<br>
+    🙌 <span class="date-box"><b>Mar 2025</b></span>Dohwa and Yejin started the B.S.- M.S. integrated program at IXLAB! <br>
+    🏆 <span class="date-box"><b>Jan 2025</b></span>1 paper has been awarded <b>Best Paper Award</b> at HCI KOREA'25 (<a href="https://cse.cau.ac.kr/sub05/sub0503.php?nmode=view&code=oktomato_bbs05&uid=1300">link</a>)<br>
     🎮 <span class="date-box"><b>Jan 2025</b></span>IXLAB visited <a href="https://geng.gg/">Gen.G</a> 🐯 &#128171; <br>
     🎉 <span class="date-box"><b>Jan 2025</b></span>1 paper has been accepted at <b>CHI 2025</b>! <br>
     
@@ -398,11 +428,12 @@ title: Home
 <div class="container">
 <div class="section-title">We are looking for you!</div>
   <br><br>
-  <!-- <b> 📣 Open positions</b> 
+  <b> 📣 Open positions</b> 
   <ul>
-    <li><b>2025 Summer Undergraduate Research Internship</b> - <a href="https://everytime.kr/398053/v/378799806">Please check this link before you apply!</a></li>
-    <li><span style="color:red">Application Deadline: May 12, 23:59</span></li>
-  </ul> -->
+    <li><b>The 2026 Winter Undergraduate Research Internship</b> will open <u>after midterm exam in the fall semester</u>.  </li>
+    <!-- <li><b>2025 Summer Undergraduate Research Internship</b> - <a href="https://everytime.kr/398053/v/378799806">Please check this link before you apply!</a></li>
+    <li><span style="color:red">Application Deadline: May 12, 23:59</span></li> -->
+  </ul>
 
   <p>
     We are looking for passionate students who enjoy identifying and solving real-world problems from the perspective of Human-Computer Interaction (HCI). 
