@@ -109,24 +109,10 @@ title: "Members"
     </div>
   </div>
 
-  
-
-
-
   <div class="member-column">
     <img src="https://cookingfoil.github.io/ixlab/figures/yongchan.png" class="member-photo">
     <div class="member-info">
       <strong>Yongchan Son</strong>
-      <div style="font-family: sans-serif; font-size: 15px;">
-      School of CSE <br> Chung-Ang University
-      </div>
-    </div>
-  </div>
-
-  <div class="member-column">
-    <img src="https://cookingfoil.github.io/ixlab/figures/seongi.jpeg" class="member-photo">
-    <div class="member-info">
-      <strong>Seongi Yu</strong>
       <div style="font-family: sans-serif; font-size: 15px;">
       School of CSE <br> Chung-Ang University
       </div>
@@ -143,9 +129,8 @@ title: "Members"
     </div>
   </div>
 
-  <div class="member-column">
-    
-  </div>
+  <div class="member-column"> </div>
+  <div class="member-column"></div>
 
 </div>
 
@@ -154,4 +139,5 @@ title: "Members"
 
 
 ## **Alumni**
-Jin Nam (Undergraduate Students, 2024) 
+Jin Nam (Undergraduate Students, 2024) <br>
+Seon-gi Yu (Undergraduate Students, 2025)
