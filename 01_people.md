@@ -26,7 +26,7 @@ title: "Members"
 <div class="member-column"></div>
 ---
 
-## **M.S. Students**
+## **Graduate Students**
 <div class="members-row">
 
   <div class="member-column">
@@ -34,7 +34,9 @@ title: "Members"
     <div class="member-info">
       <strong>Been An</strong><br>
       <div style="font-family: sans-serif; font-size: 15px;">
-      School of CSE <br> Chung-Ang University
+      <b> M.S.-Ph.D Integrated </b><br>
+      School of CSE <br> 
+      Chung-Ang University
       </div>
     </div>
   </div>
@@ -44,7 +46,9 @@ title: "Members"
     <div class="member-info">
       <strong>Yejin Choi</strong><br>
       <div style="font-family: sans-serif; font-size: 15px;">
-      School of CSE <br> Chung-Ang University
+      <b> B.S.-M.S. Integrated </b> <br>
+      School of CSE <br> 
+      Chung-Ang University
       </div>
     </div>
   </div>
@@ -54,7 +58,9 @@ title: "Members"
     <div class="member-info">
       <strong>Dohwa Kim</strong><br>
       <div style="font-family: sans-serif; font-size: 15px;">
-      School of CSE <br> Chung-Ang University
+      <B> B.S.-M.S. Integrated </b> <br>
+      School of CSE <br> 
+      Chung-Ang University
       </div>
     </div>
   </div>
@@ -64,7 +70,9 @@ title: "Members"
     <div class="member-info">
       <strong>Minho Kang</strong><br>
       <div style="font-family: sans-serif; font-size: 15px;">
-      School of CSE <br> Chung-Ang University
+      <b> M.S. Student </b> <br>
+      School of CSE <br> 
+      Chung-Ang University
       </div>
     </div>
   </div>
@@ -100,16 +108,6 @@ title: "Members"
   </div>
 
   <div class="member-column">
-    <img src="https://cookingfoil.github.io/ixlab/figures/yejinjang.jpg" class="member-photo">
-    <div class="member-info">
-      <strong>Yejin Jang</strong>
-      <div style="font-family: sans-serif; font-size: 15px;">
-      College of Art&Technology <br> Chung-Ang University
-      </div>
-    </div>
-  </div>
-
-  <div class="member-column">
     <img src="https://cookingfoil.github.io/ixlab/figures/yongchan.png" class="member-photo">
     <div class="member-info">
       <strong>Yongchan Son</strong>
@@ -140,4 +138,5 @@ title: "Members"
 
 ## **Alumni**
 Jin Nam (Undergraduate Students, 2024) <br>
-Seon-gi Yu (Undergraduate Students, 2025)
+Seon-gi Yu (Undergraduate Students, 2025) <br>
+Yejin Jang (Undergraduate Students, 2025) <br>
