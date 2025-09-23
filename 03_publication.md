@@ -12,7 +12,7 @@ Kyoungwon Cha\*, Dongjin Park\*, *Yejin Choi*, *Eunji Park*+, and Joon-Woo Lee+<
 ACM IMWUT 2025 Paper [Download paper (TBU)]()
 
 **Human Digital Twins for Pervasive Healthcare: A Scoping Review** <br>
-Joonyoung Park\*, *Eunji Park*\*, Duri Lee, Soowon Kang, Takyeon Lee, Hwajung Hong, Sung-Ju Lee, Heepyung Kim, Yu Rang Park, Uichin Lee <br>
+Joonyoung Park\*, *Eunji Park*\*, Duri Lee, Soowon Kang, Takyeon Lee, Hwajung Hong, Sung-Ju Lee, Heepyung Kim, Yu Rang Park, and  Uichin Lee <br>
 Health Informatics Journal (2025) [Download paper (TBU)]()
 
 **LibPad: Analyzing the Impact of OS-Specific Transfer Functions on Touchpad Pointing Performance**<br>
@@ -37,7 +37,7 @@ ACM CHI 2025 Paper [Download paper](https://cookingfoil.github.io/ixlab/papers/m
 
 **Minwon 99: Malicious Civil Complaint Filtering System Using LLM-Based Text Emotion Moderation** 
 <br>
-Seongmin Choi, Hohyun Song, Yeonghwan Shin, Kyusung Lee, *Eunji Park* <br>
+Seongmin Choi, Hohyun Song, Yeonghwan Shin, Kyusung Lee, and *Eunji Park* <br>
 🏆 <span style="color: red">Best Paper Award</span> (11/159, top 6.9%) <br>
 HCI KOREA 2025 [Download paper](https://cookingfoil.github.io/ixlab/papers/minwon99.pdf)
 
@@ -48,7 +48,7 @@ HCI KOREA 2025 [Download paper](https://cookingfoil.github.io/ixlab/papers/minwo
 ACM IMWUT 2024 Paper [Download paper](https://cookingfoil.github.io/ixlab/papers/hideandseek.pdf)
 
 **Measuring Device-Specific Physical Activity Trackability in Multi-Device Environments** <br>
-Sangjun Park, *Eunji Park*, Paul H Lee, Uichin Lee <br>
+Sangjun Park, *Eunji Park*, Paul H Lee, and Uichin Lee <br>
 IEEE BigComp 2023 [Download paper](https://cookingfoil.github.io/paper/physical_activity.pdf)
 
 **Charlie and the Semi-Automated Factory: Data-Driven Operator Behavior and Performance Modeling for Human-Machine Collaborative Systems** <br>
