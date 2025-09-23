@@ -2,28 +2,33 @@
 layout: page
 title: Publications
 ---
+(\* Co-first authors, \+ Co-corresponding authors)
 
 <!-- ## **Conference Papers** -->
 --- 
+**Privacy-Preserving Real-Time Emotion Recognition using Homomorphic Encryption** <br>
+Kyoungwon Cha\*, Dongjin Park\*, *Yejin Choi*, *Eunji Park*+, Joon-Woo Lee+<br>
+ACM IMWUT 2025 Paper [Download paper (TBU)]()
+
 **Human Digital Twins for Pervasive Healthcare: A Scoping Review** <br>
-Joonyoung Park\*, *Eunji Park*\*, Duri Lee, Soowon Kang, Takyeon Lee, Hwajung Hong, Sung-Ju Lee, Heepyung Kim, Yu Rang Park, Uichin Lee (\* Co-first authors) <br>
-Health Informatics Journal (2025) [Download paper]()
+Joonyoung Park\*, *Eunji Park*\*, Duri Lee, Soowon Kang, Takyeon Lee, Hwajung Hong, Sung-Ju Lee, Heepyung Kim, Yu Rang Park, Uichin Lee <br>
+Health Informatics Journal (2025) [Download paper (TBU)]()
 
-**TBA**<br>
+**LibPad: Analyzing the Impact of OS-Specific Transfer Functions on Touchpad Pointing Performance**<br>
 *Been An*, Hojoon Lee, and *Eunji Park* <br>
-ACM UIST 2025 Poster 
+ACM UIST 2025 Poster [Download paper (TBU)]()
 
-**TBA**<br>
+**"Gross!": Personalized Video Content Moderation Using Generative Image Overlays for Aversive Videos**<br>
 *Yejin Choi*, *Dohwa Kim*, Youngeun Jun, Hyosu Kim, and *Eunji Park* <br>
-ACM UIST 2025 Poster
+ACM UIST 2025 Poster [Download paper (TBU)]()
 
-**TBA**<br>
+**Voice to Victory: Modeling In-Game Voice Communication for Team Coordination in MOBA Games**<br>
 *Yongchan Son* and *Eunji Park* <br>
-ACM UIST 2025 Poster
+ACM UIST 2025 Poster [Download paper (TBU)]()
 
-**TBA**<br>
+**An Audio-Visual Framework for Transcription and Fingering Optimization in Bass Guitar Performance**<br>
 *Hyunwoo Bae*, Taegyun Kwon, and *Eunji Park* <br>
-ACM UIST 2025 Poster
+ACM UIST 2025 Poster [Download paper (TBU)]()
 
 **MagPie: Extending a Smartphone's Interaction Space via a Customizable Magnetic Back-of-Device Input Accessory** <br>
 Insu Kim, Suhyeon Shin, Junseob Kim, Jaemin Choi, Junhyub Lee, Sangeun Oh, *Eunji Park*, and Hyosu Kim <br>
