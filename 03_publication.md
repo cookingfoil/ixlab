@@ -6,8 +6,9 @@ title: Publications
 
 <!-- ## **Conference Papers** -->
 --- 
+
 **Privacy-Preserving Real-Time Emotion Recognition using Homomorphic Encryption** <br>
-Kyoungwon Cha\*, Dongjin Park\*, *Yejin Choi*, *Eunji Park*+, Joon-Woo Lee+<br>
+Kyoungwon Cha\*, Dongjin Park\*, *Yejin Choi*, *Eunji Park*+, and Joon-Woo Lee+<br>
 ACM IMWUT 2025 Paper [Download paper (TBU)]()
 
 **Human Digital Twins for Pervasive Healthcare: A Scoping Review** <br>
