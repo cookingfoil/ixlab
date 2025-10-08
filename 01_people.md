@@ -15,7 +15,7 @@ title: "Members"
         Assistant Professor<br>
         <a href="https://cookingfoil.github.io/"><b>Personal Page</b></a>
         &nbsp;&nbsp;
-        <a href="https://cookingfoil.github.io/ixlab/papers/eunji-cv-250220.pdf"><b>CV</b></a>
+        <a href="https://cookingfoil.github.io/ixlab/papers/eunji-cv-251009.pdf"><b>CV</b></a>
       </div>
     </div>  
   </div>

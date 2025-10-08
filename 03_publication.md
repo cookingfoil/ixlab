@@ -17,19 +17,20 @@ Health Informatics Journal (2025) [Download paper (TBU)]()
 
 **LibPad: Analyzing the Impact of OS-Specific Transfer Functions on Touchpad Pointing Performance**<br>
 *Been An*, Hojoon Lee, and *Eunji Park* <br>
-ACM UIST 2025 Poster [Download paper (TBU)]()
+ACM UIST 2025 Poster [Download paper](https://cookingfoil.github.io/ixlab/papers/libpad-uist25poster.pdf)
 
 **"Gross!": Personalized Video Content Moderation Using Generative Image Overlays for Aversive Videos**<br>
 *Yejin Choi*, *Dohwa Kim*, Youngeun Jun, Hyosu Kim, and *Eunji Park* <br>
-ACM UIST 2025 Poster [Download paper (TBU)]()
+ACM UIST 2025 Poster [Download paper](https://cookingfoil.github.io/ixlab/papers/gross-uist25poster.pdf) <br>
+🏆 <span style="color: red">People's Choice Honorable Mention Award</span> <br>
 
 **Voice to Victory: Modeling In-Game Voice Communication for Team Coordination in MOBA Games**<br>
 *Yongchan Son* and *Eunji Park* <br>
-ACM UIST 2025 Poster [Download paper (TBU)]()
+ACM UIST 2025 Poster [Download paper](https://cookingfoil.github.io/ixlab/papers/gamervoice-uist25poster.pdf)
 
 **An Audio-Visual Framework for Transcription and Fingering Optimization in Bass Guitar Performance**<br>
 *Hyunwoo Bae*, Taegyun Kwon, and *Eunji Park* <br>
-ACM UIST 2025 Poster [Download paper (TBU)]()
+ACM UIST 2025 Poster [Download paper](https://cookingfoil.github.io/ixlab/papers/bassguitar-uist25poster.pdf)
 
 **MagPie: Extending a Smartphone's Interaction Space via a Customizable Magnetic Back-of-Device Input Accessory** <br>
 Insu Kim, Suhyeon Shin, Junseob Kim, Jaemin Choi, Junhyub Lee, Sangeun Oh, *Eunji Park*, and Hyosu Kim <br>
