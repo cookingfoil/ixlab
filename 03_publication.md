@@ -20,9 +20,9 @@ Health Informatics Journal (2025) [Download paper (TBU)]()
 ACM UIST 2025 Poster [Download paper](https://cookingfoil.github.io/ixlab/papers/libpad-uist25poster.pdf)
 
 **"Gross!": Personalized Video Content Moderation Using Generative Image Overlays for Aversive Videos**<br>
+🏆 <span style="color: red">People's Choice Honorable Mention Award</span> <br>
 *Yejin Choi*, *Dohwa Kim*, Youngeun Jun, Hyosu Kim, and *Eunji Park* <br>
 ACM UIST 2025 Poster [Download paper](https://cookingfoil.github.io/ixlab/papers/gross-uist25poster.pdf) <br>
-🏆 <span style="color: red">People's Choice Honorable Mention Award</span> <br>
 
 **Voice to Victory: Modeling In-Game Voice Communication for Team Coordination in MOBA Games**<br>
 *Yongchan Son* and *Eunji Park* <br>
@@ -38,8 +38,8 @@ ACM CHI 2025 Paper [Download paper](https://cookingfoil.github.io/ixlab/papers/m
 
 **Minwon 99: Malicious Civil Complaint Filtering System Using LLM-Based Text Emotion Moderation** 
 <br>
-Seongmin Choi, Hohyun Song, Yeonghwan Shin, Kyusung Lee, and *Eunji Park* <br>
 🏆 <span style="color: red">Best Paper Award</span> (11/159, top 6.9%) <br>
+Seongmin Choi, Hohyun Song, Yeonghwan Shin, Kyusung Lee, and *Eunji Park* <br>
 HCI KOREA 2025 [Download paper](https://cookingfoil.github.io/ixlab/papers/minwon99.pdf)
 
 ---

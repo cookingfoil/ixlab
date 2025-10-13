@@ -10,8 +10,8 @@ title: Lab Moments
     }
 
     .img-medium {
-    width: 60%;
-    border-radius: 20px;
+    width: 70%;
+    border-radius: 10px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
     display: block;
     margin: 2rem auto;
@@ -28,11 +28,12 @@ title: Lab Moments
 
 ### 🏖️ We visted Busan for UIST 2025 (Oct 2025)
 
-![IXLab at UIST'25](https://cookingfoil.github.io/ixlab/figures/moments/uist25-00.jpg){: .img-rounded .shadow .img-medium }
-![IXLAB at UIST'25](https://cookingfoil.github.io/ixlab/figures/moments/uist25-02.jpg){: .img-rounded .shadow .img-medium }
-![IXLAB at UIST'25](https://cookingfoil.github.io/ixlab/figures/moments/uist25-03.jpg){: .img-rounded .shadow .img-medium }
-![IXLAB at UIST'25](https://cookingfoil.github.io/ixlab/figures/moments/uist25-been.jpg){: .img-rounded .shadow .img-medium }
-![IXLAB at UIST'25](https://cookingfoil.github.io/ixlab/figures/moments/uist25-yc.jpg){: .img-rounded .shadow .img-medium }
-![IXLAB at UIST'25](https://cookingfoil.github.io/ixlab/figures/moments/uist25-hw.jpg){: .img-rounded .shadow .img-medium }
-![IXLAB at UIST'25](https://cookingfoil.github.io/ixlab/figures/moments/uist25-gross.jpg){: .img-rounded .shadow .img-medium }
+![IXLab at UIST'25](https://cookingfoil.github.io/ixlab/figures/labpic-uist25.png){:.img-medium }
+![IXLab at UIST'25](https://cookingfoil.github.io/ixlab/figures/moments/uist25-00.jpg){:.img-medium }
+![IXLAB at UIST'25](https://cookingfoil.github.io/ixlab/figures/moments/uist25-03.jpg){:.img-medium }
+![IXLAB at UIST'25](https://cookingfoil.github.io/ixlab/figures/moments/uist25-been.jpg){:.img-medium }
+![IXLAB at UIST'25](https://cookingfoil.github.io/ixlab/figures/moments/uist25-yc.jpg){:.img-medium }
+![IXLAB at UIST'25](https://cookingfoil.github.io/ixlab/figures/moments/uist25-hw.jpg){:.img-medium }
+![IXLAB at UIST'25](https://cookingfoil.github.io/ixlab/figures/moments/uist25-gross.jpg){:.img-medium}
+![IXLAB at UIST'25](https://cookingfoil.github.io/ixlab/figures/moments/uist25-01.jpg){:.img-medium }
 
