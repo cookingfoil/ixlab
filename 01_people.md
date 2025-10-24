@@ -137,6 +137,6 @@ title: "Members"
 
 
 ## **Alumni**
-Jin Nam (Undergraduate Students, 2024) <br>
-Seon-gi Yu (Undergraduate Students, 2025) <br>
 Yejin Jang (Undergraduate Students, 2025) <br>
+Seon-gi Yu (Undergraduate Students, 2025) <br>
+Jin Nam (Undergraduate Students, 2024) <br>
