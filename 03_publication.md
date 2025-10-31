@@ -13,7 +13,7 @@ ACM IMWUT 2025 Paper [Download paper (TBU)]()
 
 **Human Digital Twins for Pervasive Healthcare: A Scoping Review** <br>
 Joonyoung Park\*, *Eunji Park*\*, Duri Lee, Soowon Kang, Takyeon Lee, Hwajung Hong, Sung-Ju Lee, Heepyung Kim, Yu Rang Park, and  Uichin Lee <br>
-Health Informatics Journal (2025) [Download paper (TBU)]()
+Health Informatics Journal (2025) [Download paper](https://journals.sagepub.com/doi/10.1177/14604582251392455)
 
 **LibPad: Analyzing the Impact of OS-Specific Transfer Functions on Touchpad Pointing Performance**<br>
 *Been An*, Hojoon Lee, and *Eunji Park* <br>
