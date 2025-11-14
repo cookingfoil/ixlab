@@ -87,7 +87,7 @@ title: "Members"
 
 <div class="members-row">
 
-  <div class="member-column">
+  <!-- <div class="member-column">
     <img src="https://cookingfoil.github.io/ixlab/figures/jahun.png" class="member-photo">
     <div class="member-info">
       <strong>Jahun Jang</strong>
@@ -95,7 +95,7 @@ title: "Members"
       Department of Sociology <br> Chung-Ang University
       </div>
     </div>
-  </div>
+  </div> -->
 
   <div class="member-column">
     <img src="https://cookingfoil.github.io/ixlab/figures/hyeonwoo.png" class="member-photo">
@@ -137,6 +137,7 @@ title: "Members"
 
 
 ## **Alumni**
+Jahun Jang (Undergraduate Students, 2025) -> EA Sports<br>
 Yejin Jang (Undergraduate Students, 2025) <br>
 Seon-gi Yu (Undergraduate Students, 2025) <br>
 Jin Nam (Undergraduate Students, 2024) <br>
