@@ -26,6 +26,9 @@ title: Lab Moments
 
 </style>
 
+
+
+
 ### 🏖️ We visted Busan for UIST 2025 (Oct 2025)
 
 ![IXLab at UIST'25](https://cookingfoil.github.io/ixlab/figures/labpic-uist25.png){:.img-medium }
@@ -36,4 +39,6 @@ title: Lab Moments
 ![IXLAB at UIST'25](https://cookingfoil.github.io/ixlab/figures/moments/uist25-hw.jpg){:.img-medium }
 ![IXLAB at UIST'25](https://cookingfoil.github.io/ixlab/figures/moments/uist25-gross.jpg){:.img-medium}
 ![IXLAB at UIST'25](https://cookingfoil.github.io/ixlab/figures/moments/uist25-01.jpg){:.img-medium }
+
+### 🎂 Happy Birthday Yongchan and Been (Aug 2025)
 
