@@ -24,10 +24,34 @@ title: Lab Moments
     margin: 2rem auto;
     }
 
-</style>
+</style> 
 
+### 🎂 Happy Birthday Dohwa and Dohyun (Feb 2026)
 
+![bday-2602](https://cookingfoil.github.io/ixlab/figures/bday-2602.jpg){:.img-medium }
 
+### 🎓 IXLAB Graduation Celebration (Feb 2026)
+
+![grad-2602](https://cookingfoil.github.io/ixlab/figures/graduation-26.jpg){:.img-medium }
+![grad-2602](https://cookingfoil.github.io/ixlab/figures/graduation-26-01.jpg){:.img-medium }
+![grad-2602](https://cookingfoil.github.io/ixlab/figures/graduation-26-02.jpg){:.img-medium }
+
+### 🎂 Happy Birthday Hyeonwoo and Minho (Dec 2025)
+
+![bday1-2512](https://cookingfoil.github.io/ixlab/figures/bday-2512.jpg){:.img-medium }
+
+### 🎂 Happy Birthday Hyeonwoo and Minho (Dec 2025)
+
+![bday1-2512](https://cookingfoil.github.io/ixlab/figures/bday-2512.jpg){:.img-medium }
+
+### 🎳 Wrap up the year with a bowling (Dec 2025)
+
+![Bowling1](https://cookingfoil.github.io/ixlab/figures/bowling.jpg){:.img-medium }
+![Bowling2](https://cookingfoil.github.io/ixlab/figures/bowling-01.jpg){:.img-medium }
+![Bowling3](https://cookingfoil.github.io/ixlab/figures/bowling-02.jpg){:.img-medium }
+![Bowling4](https://cookingfoil.github.io/ixlab/figures/bowling-03.jpg){:.img-medium }
+![Bowling5](https://cookingfoil.github.io/ixlab/figures/bowling-04.jpg){:.img-medium }
+![Bowling6](https://cookingfoil.github.io/ixlab/figures/bowling-05.jpg){:.img-medium }
 
 ### 🏖️ We visted Busan for UIST 2025 (Oct 2025)
 
