@@ -77,6 +77,32 @@ title: "Members"
     </div>
   </div>
 
+  <div class="member-column">
+    <img src="https://cookingfoil.github.io/ixlab/figures/yongchan.png" class="member-photo">
+    <div class="member-info">
+      <strong>Yongchan Son</strong>
+      <div style="font-family: sans-serif; font-size: 15px;">
+      <b> M.S. Student </b> <br>
+      School of CSE <br> Chung-Ang University
+      </div>
+    </div>
+  </div>
+  
+  <div class="member-column">
+    <img src="https://cookingfoil.github.io/ixlab/figures/seungbok.png" class="member-photo">
+    <div class="member-info">
+      <strong>Seungbok Lee</strong>
+      <div style="font-family: sans-serif; font-size: 15px;">
+      <b> M.S. Student </b> <br>
+      School of CSE <br> Chung-Ang University
+      </div>
+    </div>
+  </div>
+
+  <div class="member-column"></div>
+  <div class="member-column"></div>
+  
+
 </div>
 
 
@@ -101,26 +127,6 @@ title: "Members"
     <img src="https://cookingfoil.github.io/ixlab/figures/hyeonwoo.png" class="member-photo">
     <div class="member-info">
       <strong>Hyunwoo Bae</strong>
-      <div style="font-family: sans-serif; font-size: 15px;">
-      School of CSE <br> Chung-Ang University
-      </div>
-    </div>
-  </div>
-
-  <div class="member-column">
-    <img src="https://cookingfoil.github.io/ixlab/figures/yongchan.png" class="member-photo">
-    <div class="member-info">
-      <strong>Yongchan Son</strong>
-      <div style="font-family: sans-serif; font-size: 15px;">
-      School of CSE <br> Chung-Ang University
-      </div>
-    </div>
-  </div>
-
-  <div class="member-column">
-    <img src="https://cookingfoil.github.io/ixlab/figures/seungbok.png" class="member-photo">
-    <div class="member-info">
-      <strong>Seungbok Lee</strong>
       <div style="font-family: sans-serif; font-size: 15px;">
       School of CSE <br> Chung-Ang University
       </div>
