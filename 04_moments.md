@@ -67,4 +67,4 @@ title: Lab Moments
 
 ### 🎂 Happy Birthday Yongchan and Been (Aug 2025)
 
-![YCB](https://cookingfoil.github.io/ixlab/figures/moments/bday2508.jpg){:.img-medium }
+![YCB](https://cookingfoil.github.io/ixlab/figures/moments/bday-2508.jpg){:.img-medium }
