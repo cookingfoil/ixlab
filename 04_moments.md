@@ -25,8 +25,11 @@ title: Lab Moments
     }
 
 </style> 
+### 🎂 Happy Birthday Yejin and Hyogeun (Feb 2026)
 
-### 🎂 Happy Birthday Dohwa and Dohyun (Feb 2026)
+![bday-2602](https://cookingfoil.github.io/ixlab/figures/moments/bday-2602-01.jpg){:.img-medium }
+
+### 🎂 Happy Birthday Dohwa and Dohyun (Jan) 2026)
 
 ![bday-2602](https://cookingfoil.github.io/ixlab/figures/moments/bday-2602.jpg){:.img-medium }
 
@@ -35,10 +38,8 @@ title: Lab Moments
 ![grad-2602](https://cookingfoil.github.io/ixlab/figures/moments/graduation-26.jpg){:.img-medium }
 ![grad-2602](https://cookingfoil.github.io/ixlab/figures/moments/graduation-26-01.jpg){:.img-medium }
 ![grad-2602](https://cookingfoil.github.io/ixlab/figures/moments/graduation-26-02.jpg){:.img-medium }
+![grad-2602](https://cookingfoil.github.io/ixlab/figures/moments/grad-yejin.jpg){:.img-medium }
 
-### 🎂 Happy Birthday Hyeonwoo and Minho (Dec 2025)
-
-![bday1-2512](https://cookingfoil.github.io/ixlab/figures/moments/bday-2512.jpg){:.img-medium }
 
 ### 🎂 Happy Birthday Hyeonwoo and Minho (Dec 2025)
 
@@ -66,3 +67,4 @@ title: Lab Moments
 
 ### 🎂 Happy Birthday Yongchan and Been (Aug 2025)
 
+![YCB](https://cookingfoil.github.io/ixlab/figures/moments/bday2508.jpg){:.img-medium }
