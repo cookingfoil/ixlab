@@ -25,11 +25,12 @@ title: Lab Moments
     }
 
 </style> 
+
 ### 🎂 Happy Birthday Yejin and Hyogeun (Feb 2026)
 
-![bday-2602-01](https://cookingfoil.github.io/ixlab/figures/moments/bday-2602-01.jpg){:.img-medium }
+![bday-2602-01](https://cookingfoil.github.io/ixlab/figures/moments/yjhg.jpg){:.img-medium }
 
-### 🎂 Happy Birthday Dohwa and Dohyun (Jan) 2026)
+### 🎂 Happy Birthday Dohwa and Dohyun (Jan 2026)
 
 ![bday-2602](https://cookingfoil.github.io/ixlab/figures/moments/bday-2602.jpg){:.img-medium }
 

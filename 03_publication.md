@@ -8,12 +8,13 @@ title: Publications
 --- 
 **A Multimodal Dataset for Assessing Emotion, Stress, and Emotional Workload in Interpersonal Work Scenario**<br>
 Duri Lee, *Eunji Park*, Gyuna Kim, Yunjo Han, Uichin Lee <br>
-*Scientific Data* [Download paper](https://cookingfoil.github.io/ixlab/papers/scientificdata-2026-1.pdf)
+*Scientific Data 2026* [Download paper](https://cookingfoil.github.io/ixlab/papers/scientificdata-2026-1.pdf)
+
+---
 
 **Artificial intelligence for emotion regulation at work**<br>
 Uichin Lee, Duri Lee, *Eunji Park*, and Heejeong Lim <br>
 *Handbook of emotion regulation at work* [Download paper](https://cookingfoil.github.io/ixlab/papers/lee2025artificial.pdf)
-
 
 **Privacy-Preserving Real-Time Emotion Recognition using Homomorphic Encryption** <br>
 Kyoungwon Cha\*, Dongjin Park\*, *Yejin Choi*, *Eunji Park*+, and Joon-Woo Lee+<br>
@@ -62,7 +63,7 @@ Sangjun Park, *Eunji Park*, Paul H Lee, and Uichin Lee <br>
 
 **Charlie and the Semi-Automated Factory: Data-Driven Operator Behavior and Performance Modeling for Human-Machine Collaborative Systems** <br>
 *Eunji Park*, Yugyeong Jung, Inyeop Kim, and Uichin Lee  
-*ACM CHI 2023 Paper [Download paper](https://cookingfoil.github.io/paper/paper_charlie.pdf)
+*ACM CHI 2023 Paper* [Download paper](https://cookingfoil.github.io/paper/paper_charlie.pdf)
 
 **Secrets of Gosu: Understanding Physical Combat Skills of Professional Players in First-Person Shooters** <br>
 🏆 <span style="color: red">Honorable Mention Award (top 5%)</span> <br>
