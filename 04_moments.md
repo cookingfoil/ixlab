@@ -36,9 +36,11 @@ title: Lab Moments
 ### 🎓 IXLAB Graduation Celebration (Feb 2026)
 
 ![grad-2602](https://cookingfoil.github.io/ixlab/figures/moments/graduation-26.jpg){:.img-medium }
+<p align="center"> 석사 시작도 전에 최장 2년의 시간을 같이 보낸 학부연구생들의 졸업을 축하합니다. 이제 모두 석사과정! </p> 
 ![grad-2602](https://cookingfoil.github.io/ixlab/figures/moments/graduation-26-01.jpg){:.img-medium }
 ![grad-2602](https://cookingfoil.github.io/ixlab/figures/moments/graduation-26-02.jpg){:.img-medium }
 ![grad-2602](https://cookingfoil.github.io/ixlab/figures/moments/grad-yejin.jpg){:.img-medium }
+<p align="center"> 🎉 최예진 학생의 전체 차석 졸업 및 숨마쿰라우데를 축하합니다 </p>
 
 
 ### 🎂 Happy Birthday Hyeonwoo and Minho (Dec 2025)
@@ -68,3 +70,4 @@ title: Lab Moments
 ### 🎂 Happy Birthday Yongchan and Been (Aug 2025)
 
 ![YCB](https://cookingfoil.github.io/ixlab/figures/moments/bday-2508.jpg){:.img-medium }
+<p align="center"> 두 사람은 태어난 연도, 월, 일이 모두 똑같습니다. 우리랩 쌍둥이! </p>
