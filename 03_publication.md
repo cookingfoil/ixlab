@@ -6,22 +6,26 @@ title: Publications
 
 <!-- ## **Conference Papers** -->
 --- 
+**Video-Centered Multimodal Learning for Non-Invasive Detection of Emotional Workload in Emotional Labor Settings**<br>
+*Yejin Choi*, *Yejin Jang*, and *Eunji Park*<br>
+*IEEE Access (2026)* 
+
 **A Multimodal Dataset for Assessing Emotion, Stress, and Emotional Workload in Interpersonal Work Scenario**<br>
-Duri Lee, *Eunji Park*, Gyuna Kim, Yunjo Han, Uichin Lee <br>
-*Scientific Data 2026* [Download paper](https://cookingfoil.github.io/ixlab/papers/scientificdata-2026-1.pdf)
+Duri Lee, *Eunji Park*, Gyuna Kim, Yunjo Han, and Uichin Lee <br>
+*Scientific Data (2026)* [Download paper](https://cookingfoil.github.io/ixlab/papers/scientificdata-2026-1.pdf)
 
 ---
 
 **Artificial intelligence for emotion regulation at work**<br>
 Uichin Lee, Duri Lee, *Eunji Park*, and Heejeong Lim <br>
-*Handbook of emotion regulation at work* [Download paper](https://cookingfoil.github.io/ixlab/papers/lee2025artificial.pdf)
+*Handbook of emotion regulation at work (2025)* [Download paper](https://cookingfoil.github.io/ixlab/papers/lee2025artificial.pdf)
 
 **Privacy-Preserving Real-Time Emotion Recognition using Homomorphic Encryption** <br>
 Kyoungwon Cha\*, Dongjin Park\*, *Yejin Choi*, *Eunji Park*+, and Joon-Woo Lee+<br>
 *ACM IMWUT 2025 Paper* [Download paper](https://eprint.iacr.org/2025/2058.pdf)
 
 **Human Digital Twins for Pervasive Healthcare: A Scoping Review** <br>
-Joonyoung Park\*, *Eunji Park*\*, Duri Lee, Soowon Kang, Takyeon Lee, Hwajung Hong, Sung-Ju Lee, Heepyung Kim, Yu Rang Park, and  Uichin Lee <br>
+Joonyoung Park\*, *Eunji Park*\*, Duri Lee, Soowon Kang, Takyeon Lee, Hwajung Hong, Sung-Ju Lee, Heepyung Kim, Yu Rang Park, and Uichin Lee <br>
 *Health Informatics Journal (2025)* [Download paper](https://journals.sagepub.com/doi/10.1177/14604582251392455)
 
 **LibPad: Analyzing the Impact of OS-Specific Transfer Functions on Touchpad Pointing Performance**<br>
