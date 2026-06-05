@@ -113,30 +113,10 @@ title: "Members"
 
 <div class="members-row">
 
-  <!-- <div class="member-column">
-    <img src="https://cookingfoil.github.io/ixlab/figures/jahun.png" class="member-photo">
-    <div class="member-info">
-      <strong>Jahun Jang</strong>
-      <div style="font-family: sans-serif; font-size: 15px;">
-      Department of Sociology <br> Chung-Ang University
-      </div>
-    </div>
-  </div> -->
-
   <div class="member-column">
     <img src="https://cookingfoil.github.io/ixlab/figures/hyeonwoo.png" class="member-photo">
     <div class="member-info">
       <strong>Hyunwoo Bae</strong>
-      <div style="font-family: sans-serif; font-size: 15px;">
-      School of CSE <br> Chung-Ang University
-      </div>
-    </div>
-  </div>
-
-  <div class="member-column">
-    <img src="https://cookingfoil.github.io/ixlab/figures/hyogeun.jpg" class="member-photo">
-    <div class="member-info">
-      <strong>Hyogeun Lee</strong>
       <div style="font-family: sans-serif; font-size: 15px;">
       School of CSE <br> Chung-Ang University
       </div>
@@ -153,7 +133,38 @@ title: "Members"
     </div>
   </div>
 
-  <div class="member-column"> </div>
+  <!-- <div class="member-column">
+    <img src="https://cookingfoil.github.io/ixlab/figures/seungbeom.jpg" class="member-photo">
+    <div class="member-info">
+      <strong>Seungbeom Kim</strong>
+      <div style="font-family: sans-serif; font-size: 15px;">
+      School of CSE <br> Chung-Ang University
+      </div>
+    </div>
+  </div>
+
+  <div class="member-column">
+    <img src="https://cookingfoil.github.io/ixlab/figures/jinseo.png" class="member-photo">
+    <div class="member-info">
+      <strong>Jinseo Kim</strong>
+      <div style="font-family: sans-serif; font-size: 15px;">
+      School of CSE <br> Chung-Ang University
+      </div>
+    </div>
+  </div>
+
+  <div class="member-column">
+    <img src="https://cookingfoil.github.io/ixlab/figures/junbin.png" class="member-photo">
+    <div class="member-info">
+      <strong>Junbin Seo</strong>
+      <div style="font-family: sans-serif; font-size: 15px;">
+      School of CSE <br> Chung-Ang University
+      </div>
+    </div>
+  </div> -->
+
+  <!-- <div class="member-column"> </div> -->
+  <div class="member-column"></div>
   <div class="member-column"></div>
 
 </div>
@@ -163,6 +174,7 @@ title: "Members"
 
 
 ## **Alumni**
+Hyogeun Lee (Undergraduate Students, 2026) 
 Jahun Jang (Undergraduate Students, 2025) -> EA Sports<br>
 Yejin Jang (Undergraduate Students, 2025) <br>
 Seon-gi Yu (Undergraduate Students, 2025) <br>
