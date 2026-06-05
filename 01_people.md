@@ -174,7 +174,7 @@ title: "Members"
 
 
 ## **Alumni**
-Hyogeun Lee (Undergraduate Students, 2026) 
+Hyogeun Lee (Undergraduate Students, 2026) <br>
 Jahun Jang (Undergraduate Students, 2025) -> EA Sports<br>
 Yejin Jang (Undergraduate Students, 2025) <br>
 Seon-gi Yu (Undergraduate Students, 2025) <br>
