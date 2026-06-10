@@ -133,7 +133,7 @@ title: "Members"
     </div>
   </div>
 
-  <!-- <div class="member-column">
+  <div class="member-column">
     <img src="https://cookingfoil.github.io/ixlab/figures/seungbeom.jpg" class="member-photo">
     <div class="member-info">
       <strong>Seungbeom Kim</strong>
@@ -143,7 +143,7 @@ title: "Members"
     </div>
   </div>
 
-  <div class="member-column">
+  <!-- <div class="member-column">
     <img src="https://cookingfoil.github.io/ixlab/figures/jinseo.png" class="member-photo">
     <div class="member-info">
       <strong>Jinseo Kim</strong>
@@ -151,7 +151,7 @@ title: "Members"
       School of CSE <br> Chung-Ang University
       </div>
     </div>
-  </div>
+  </div> -->
 
   <div class="member-column">
     <img src="https://cookingfoil.github.io/ixlab/figures/junbin.png" class="member-photo">
@@ -161,11 +161,11 @@ title: "Members"
       School of CSE <br> Chung-Ang University
       </div>
     </div>
-  </div> -->
+  </div>
 
-  <!-- <div class="member-column"> </div> -->
+  <!-- <div class="member-column"></div>
   <div class="member-column"></div>
-  <div class="member-column"></div>
+  <div class="member-column"></div> -->
 
 </div>
 
