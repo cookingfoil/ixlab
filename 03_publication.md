@@ -6,13 +6,21 @@ title: Publications
 
 <!-- ## **Conference Papers** -->
 --- 
+**TBA (Conditionally Accepted)**<br>
+*Yejin Choi*, *Dohwa Kim*, Youngeun Jun, Hyosu Kim, and *Eunji Park*<br>
+*ACM UIST 2026* 
+
 **Video-Centered Multimodal Learning for Non-Invasive Detection of Emotional Workload in Emotional Labor Settings**<br>
 *Yejin Choi*, *Yejin Jang*, and *Eunji Park*<br>
 *IEEE Access (2026)* 
+*<span style="color: forestgreen; opacity: 0.6">IF=4.2 (Q2)</span>*
+[Download paper](https://cookingfoil.github.io/ixlab/papers/video-workload.pdf)
 
 **A Multimodal Dataset for Assessing Emotion, Stress, and Emotional Workload in Interpersonal Work Scenario**<br>
 Duri Lee, *Eunji Park*, Gyuna Kim, Yunjo Han, and Uichin Lee <br>
-*Scientific Data (2026)* [Download paper](https://cookingfoil.github.io/ixlab/papers/scientificdata-2026-1.pdf)
+*Scientific Data (2026)*
+*<span style="color: forestgreen; opacity: 0.6">IF=7.2 (Q1)</span>*
+[Download paper](https://cookingfoil.github.io/ixlab/papers/scientificdata-2026-1.pdf)
 
 ---
 
@@ -26,7 +34,9 @@ Kyoungwon Cha\*, Dongjin Park\*, *Yejin Choi*, *Eunji Park*+, and Joon-Woo Lee+<
 
 **Human Digital Twins for Pervasive Healthcare: A Scoping Review** <br>
 Joonyoung Park\*, *Eunji Park*\*, Duri Lee, Soowon Kang, Takyeon Lee, Hwajung Hong, Sung-Ju Lee, Heepyung Kim, Yu Rang Park, and Uichin Lee <br>
-*Health Informatics Journal (2025)* [Download paper](https://journals.sagepub.com/doi/10.1177/14604582251392455)
+*Health Informatics Journal (2025)*
+*<span style="color: forestgreen; opacity: 0.6">IF=2.2 (Q3)</span>*
+[Download paper](https://journals.sagepub.com/doi/10.1177/14604582251392455)
 
 **LibPad: Analyzing the Impact of OS-Specific Transfer Functions on Touchpad Pointing Performance**<br>
 *Been An*, Hojoon Lee, and *Eunji Park* <br>
