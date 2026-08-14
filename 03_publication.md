@@ -6,7 +6,7 @@ title: Publications
 
 <!-- ## **Conference Papers** -->
 --- 
-**TBA (Conditionally Accepted)**<br>
+**Sticki: Personalized Content Moderation Using Image Overlays for Recontextualizing Aversive Videos**<br>
 *Yejin Choi*, *Dohwa Kim*, Youngeun Jun, Hyosu Kim, and *Eunji Park*<br>
 *ACM UIST 2026* 
 
