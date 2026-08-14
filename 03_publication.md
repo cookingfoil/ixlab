@@ -7,7 +7,7 @@ title: Publications
 <!-- ## **Conference Papers** -->
 --- 
 **Sticki: Personalized Content Moderation Using Image Overlays for Recontextualizing Aversive Videos**<br>
-*Yejin Choi*, *Dohwa Kim*, Youngeun Jun, Hyosu Kim, and *Eunji Park*<br>
+*Yejin Choi\**, *Dohwa Kim\**, Youngeun Jun, Hyosu Kim, and *Eunji Park*<br>
 *ACM UIST 2026* 
 
 **Video-Centered Multimodal Learning for Non-Invasive Detection of Emotional Workload in Emotional Labor Settings**<br>

@@ -146,7 +146,7 @@ title: "Members"
   </div>
 
   <div class="member-column">
-    <img src="https://cookingfoil.github.io/ixlab/figures/jinseo.png" class="member-photo">
+    <img src="https://cookingfoil.github.io/ixlab/figures/jinseo.jpg" class="member-photo">
     <div class="member-info">
       <strong>Jinseo Kim</strong>
       <div style="font-family: sans-serif; font-size: 15px;">
