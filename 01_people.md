@@ -135,6 +135,17 @@ title: "Members"
     </div>
   </div>
 
+
+  <div class="member-column">
+    <img src="https://cookingfoil.github.io/ixlab/figures/sojung.jpg" class="member-photo">
+    <div class="member-info">
+      <strong>Sojung Kim</strong>
+      <div style="font-family: sans-serif; font-size: 15px;">
+      Division of Computer Science <br> Sookmyung Women’s University 
+      </div>
+    </div>
+  </div>
+
   <!-- <div class="member-column">
     <img src="https://cookingfoil.github.io/ixlab/figures/seungbeom.jpg" class="member-photo">
     <div class="member-info">
