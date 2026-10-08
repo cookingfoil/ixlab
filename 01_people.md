@@ -141,7 +141,7 @@ title: "Members"
     <div class="member-info">
       <strong>Sojung Kim</strong>
       <div style="font-family: sans-serif; font-size: 15px;">
-      Division of Computer Science <br> Sookmyung Women’s University 
+      School of CSE <br> Chung-Ang University
       </div>
     </div>
   </div>
