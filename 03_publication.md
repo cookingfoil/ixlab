@@ -6,9 +6,15 @@ title: Publications
 
 <!-- ## **Conference Papers** -->
 --- 
+**An Eye-Tracking Dataset for Viewing Distance Categories in Real-World Scenarios**<br>
+*Dohwa Kim\**, *Yejin Choi\**, *Seungbok Lee*, Chi Yoon Jung, and *Eunji Park*<br>
+*Scientific Data (2026)*
+*<span style="color: forestgreen; opacity: 0.6">IF=7.2 (Q1)</span>*
+
 **Sticki: Personalized Content Moderation Using Image Overlays for Recontextualizing Aversive Videos**<br>
 *Yejin Choi\**, *Dohwa Kim\**, Youngeun Jun, Hyosu Kim, and *Eunji Park*<br>
 *ACM UIST 2026* 
+<!-- [Download paper](https://cookingfoil.github.io/ixlab/papers/sticki.pdf) -->
 
 **Video-Centered Multimodal Learning for Non-Invasive Detection of Emotional Workload in Emotional Labor Settings**<br>
 *Yejin Choi*, *Yejin Jang*, and *Eunji Park*<br>
